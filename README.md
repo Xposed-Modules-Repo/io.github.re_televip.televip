@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src=".github/assets/logo.svg" width="128" alt="TeleVip logo">
+<img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/logo.svg" width="128" alt="TeleVip logo">
 
 # Re: TeleVIP
 
 **Privacy, ad blocking and quality-of-life features for Telegram and its forks,<br>as a Vector / Xposed module.**
 
-[![Release](https://img.shields.io/github/v/release/2B-4G10/Re-TeleVIP?label=release&color=FFD500)](../../releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/2B-4G10/Re-TeleVIP/total?color=2AABEE)](../../releases)
-[![Client watch](https://img.shields.io/github/actions/workflow/status/2B-4G10/Re-TeleVIP/client-watch.yml?label=client%20watch)](../../actions/workflows/client-watch.yml)
+[![Release](https://img.shields.io/github/v/release/2B-4G10/Re-TeleVIP?label=release&color=FFD500)](https://github.com/2B-4G10/TeleVIP/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/2B-4G10/Re-TeleVIP/total?color=2AABEE)](https://github.com/2B-4G10/TeleVIP/releases)
+[![Client watch](https://img.shields.io/github/actions/workflow/status/2B-4G10/Re-TeleVIP/client-watch.yml?label=client%20watch)](https://github.com/2B-4G10/TeleVIP/actions/workflows/client-watch.yml)
 [![Xposed API](https://img.shields.io/badge/libxposed-API%20102-4A4D54)](#-getting-started)
-[![License](https://img.shields.io/badge/license-GPL--3.0-F99B1C)](LICENSE)
+[![License](https://img.shields.io/badge/license-GPL--3.0-F99B1C)](https://github.com/2B-4G10/TeleVIP/blob/main/LICENSE)
 
 <br>
 
-[![Download the latest APK](https://img.shields.io/badge/Download-latest%20APK-2AABEE?style=for-the-badge&logo=android&logoColor=white)](../../releases/latest)
+[![Download the latest APK](https://img.shields.io/badge/Download-latest%20APK-2AABEE?style=for-the-badge&logo=android&logoColor=white)](https://github.com/2B-4G10/TeleVIP/releases/latest)
 
-[Changelog](CHANGELOG.md) · [Telegram channel](https://t.me/t_l0_e) · [Report a problem](../../issues)
+[Changelog](https://github.com/2B-4G10/TeleVIP/blob/main/CHANGELOG.md) · [Telegram channel](https://t.me/t_l0_e) · [Report a problem](https://github.com/2B-4G10/TeleVIP/issues)
 
 </div>
 
@@ -90,7 +90,7 @@
   </td>
   <td valign="top">
 
-1. Download `TeleVip-…-release.apk` from the [latest release](../../releases/latest) and install it.
+1. Download `TeleVip-…-release.apk` from the [latest release](https://github.com/2B-4G10/TeleVIP/releases/latest) and install it.
 2. In LSPosed / Vector: **Modules** → enable **TeleVip** → tick your Telegram clients.
 3. **Force stop** the client and open it again.
 
@@ -111,16 +111,16 @@ A release that breaks something opens an issue.
 
 <table>
 <tr>
-  <td align="center" width="140"><img src=".github/assets/clients/telegram.png" width="56" height="56" alt=""><br><b>Telegram</b><br><sub>telegram.org · newest</sub></td>
-  <td align="center" width="140"><img src=".github/assets/clients/nekogram.png" width="56" height="56" alt=""><br><b>Nekogram</b><br><sub>GitHub · last 5</sub></td>
-  <td align="center" width="140"><img src=".github/assets/clients/cherrygram.png" width="56" height="56" alt=""><br><b>Cherrygram</b><br><sub>GitHub · last 5</sub></td>
-  <td align="center" width="140"><img src=".github/assets/clients/nagram.png" width="56" height="56" alt=""><br><b>Nagram</b><br><sub>GitHub · last 5</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/telegram.png" width="56" height="56" alt=""><br><b>Telegram</b><br><sub>telegram.org · newest</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/nekogram.png" width="56" height="56" alt=""><br><b>Nekogram</b><br><sub>GitHub · last 5</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/cherrygram.png" width="56" height="56" alt=""><br><b>Cherrygram</b><br><sub>GitHub · last 5</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/nagram.png" width="56" height="56" alt=""><br><b>Nagram</b><br><sub>GitHub · last 5</sub></td>
 </tr>
 <tr>
-  <td align="center" width="140"><img src=".github/assets/clients/nagramx.png" width="56" height="56" alt=""><br><b>NagramX</b><br><sub>GitHub · last 5</sub></td>
-  <td align="center" width="140"><img src=".github/assets/clients/forkgram.png" width="56" height="56" alt=""><br><b>Forkgram</b><br><sub>F-Droid · last 5</sub></td>
-  <td align="center" width="140"><img src=".github/assets/clients/forkgram-classic.png" width="56" height="56" alt=""><br><b>Forkgram Classic</b><br><sub>F-Droid · last 5</sub></td>
-  <td align="center" width="140"><img src=".github/assets/clients/mercurygram.png" width="56" height="56" alt=""><br><b>Mercurygram</b><br><sub>F-Droid · last 5</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/nagramx.png" width="56" height="56" alt=""><br><b>NagramX</b><br><sub>GitHub · last 5</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/forkgram.png" width="56" height="56" alt=""><br><b>Forkgram</b><br><sub>F-Droid · last 5</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/forkgram-classic.png" width="56" height="56" alt=""><br><b>Forkgram Classic</b><br><sub>F-Droid · last 5</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/mercurygram.png" width="56" height="56" alt=""><br><b>Mercurygram</b><br><sub>F-Droid · last 5</sub></td>
 </tr>
 </table>
 
@@ -133,16 +133,16 @@ To check one, run the *Client watch* workflow by hand with a link to its APK.
 
 <table>
 <tr>
-  <td align="center" width="140"><img src=".github/assets/clients/telegram.png" width="56" height="56" alt=""><br><b>Telegram</b><br><sub>Play Store & Beta</sub></td>
-  <td align="center" width="140"><img src=".github/assets/clients/plus.png" width="56" height="56" alt=""><br><b>Plus Messenger</b><br><sub>Play Store</sub></td>
-  <td align="center" width="140"><img src=".github/assets/clients/nicegram.png" width="56" height="56" alt=""><br><b>Nicegram</b><br><sub>Play Store</sub></td>
-  <td align="center" width="140"><img src=".github/assets/clients/ime.png" width="56" height="56" alt=""><br><b>iMe</b><br><sub>Play Store</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/telegram.png" width="56" height="56" alt=""><br><b>Telegram</b><br><sub>Play Store & Beta</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/plus.png" width="56" height="56" alt=""><br><b>Plus Messenger</b><br><sub>Play Store</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/nicegram.png" width="56" height="56" alt=""><br><b>Nicegram</b><br><sub>Play Store</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/ime.png" width="56" height="56" alt=""><br><b>iMe</b><br><sub>Play Store</sub></td>
 </tr>
 <tr>
-  <td align="center" width="140"><img src=".github/assets/clients/xplus.png" width="56" height="56" alt=""><br><b>X Plus</b><br><sub>Play Store</sub></td>
-  <td align="center" width="140"><img src=".github/assets/clients/turrit.png" width="56" height="56" alt=""><br><b>Turrit</b><br><sub>Play Store</sub></td>
-  <td align="center" width="140"><img src=".github/assets/clients/telegraph.png" width="56" height="56" alt=""><br><b>Telegraph</b><br><sub>Play Store</sub></td>
-  <td align="center" width="140"><img src=".github/assets/clients/tgconnect.png" width="56" height="56" alt=""><br><b>TG Connect</b><br><sub>Play Store</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/xplus.png" width="56" height="56" alt=""><br><b>X Plus</b><br><sub>Play Store</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/turrit.png" width="56" height="56" alt=""><br><b>Turrit</b><br><sub>Play Store</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/telegraph.png" width="56" height="56" alt=""><br><b>Telegraph</b><br><sub>Play Store</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/tgconnect.png" width="56" height="56" alt=""><br><b>TG Connect</b><br><sub>Play Store</sub></td>
 </tr>
 </table>
 
@@ -150,11 +150,11 @@ To check one, run the *Client watch* workflow by hand with a link to its APK.
 
 <table>
 <tr>
-  <td align="center" width="140"><img src=".github/assets/clients/telega.png" width="56" height="56" alt=""><br><b>Telega</b><br><sub>RuStore</sub></td>
-  <td align="center" width="140"><img src=".github/assets/clients/momogram.png" width="56" height="56" alt=""><br><b>Momogram</b><br><sub>community fork</sub></td>
-  <td align="center" width="140"><img src=".github/assets/clients/nagramx.png" width="56" height="56" alt=""><br><b>Nagram XF</b><br><sub>NagramX variant</sub></td>
-  <td align="center" width="140"><img src=".github/assets/clients/forkgram.png" width="56" height="56" alt=""><br><b>ForkClient</b><br><sub>Forkgram beta</sub></td>
-  <td align="center" width="140"><img src=".github/assets/clients/nekox.png" width="56" height="56" alt=""><br><b>Nekogram X</b><br><sub>discontinued</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/telega.png" width="56" height="56" alt=""><br><b>Telega</b><br><sub>RuStore</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/momogram.png" width="56" height="56" alt=""><br><b>Momogram</b><br><sub>community fork</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/nagramx.png" width="56" height="56" alt=""><br><b>Nagram XF</b><br><sub>NagramX variant</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/forkgram.png" width="56" height="56" alt=""><br><b>ForkClient</b><br><sub>Forkgram beta</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/nekox.png" width="56" height="56" alt=""><br><b>Nekogram X</b><br><sub>discontinued</sub></td>
 </tr>
 </table>
 
@@ -162,7 +162,7 @@ To check one, run the *Client watch* workflow by hand with a link to its APK.
 
 <table>
 <tr>
-  <td align="center" width="140"><img src=".github/assets/clients/telegram-foss.png" width="56" height="56" alt=""><br><b>Telegram FOSS</b><br><sub>F-Droid · 10.14.3 (2024)</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/telegram-foss.png" width="56" height="56" alt=""><br><b>Telegram FOSS</b><br><sub>F-Droid · 10.14.3 (2024)</sub></td>
   <td width="420">Its last release predates the Telegram code behind <i>Block ads</i>, <i>Save edits history</i>, Ghost Mode's paid reactions and a photo-viewer button. Everything else works.</td>
 </tr>
 </table>
@@ -175,10 +175,10 @@ TeleVip hooks the Android builds of Telegram's own app. These are separate apps,
 
 <table>
 <tr>
-  <td align="center" width="140"><img src=".github/assets/clients/telegram-x.png" width="56" height="56" alt=""><br><b>Telegram X</b><br><sub>Android · TDLib</sub></td>
-  <td align="center" width="140"><img src=".github/assets/clients/telegram-ios.png" width="56" height="56" alt=""><br><b>Telegram</b><br><sub>iPhone & iPad</sub></td>
-  <td align="center" width="140"><img src=".github/assets/clients/tdesktop.png" width="56" height="56" alt=""><br><b>Telegram Desktop</b><br><sub>Windows · macOS · Linux</sub></td>
-  <td align="center" width="140"><img src=".github/assets/clients/unigram.png" width="56" height="56" alt=""><br><b>Unigram</b><br><sub>Windows</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/telegram-x.png" width="56" height="56" alt=""><br><b>Telegram X</b><br><sub>Android · TDLib</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/telegram-ios.png" width="56" height="56" alt=""><br><b>Telegram</b><br><sub>iPhone & iPad</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/tdesktop.png" width="56" height="56" alt=""><br><b>Telegram Desktop</b><br><sub>Windows · macOS · Linux</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/unigram.png" width="56" height="56" alt=""><br><b>Unigram</b><br><sub>Windows</sub></td>
 </tr>
 </table>
 
@@ -186,9 +186,9 @@ TeleVip hooks the Android builds of Telegram's own app. These are separate apps,
 
 <table>
 <tr>
-  <td align="center" width="140"><img src=".github/assets/clients/ayugram.png" width="56" height="56" alt=""><br><b>AyuGram</b><br><sub>desktop</sub></td>
-  <td align="center" width="140"><img src=".github/assets/clients/64gram.png" width="56" height="56" alt=""><br><b>64Gram</b><br><sub>desktop</sub></td>
-  <td align="center" width="140"><img src=".github/assets/clients/kotatogram.png" width="56" height="56" alt=""><br><b>Kotatogram</b><br><sub>desktop</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/ayugram.png" width="56" height="56" alt=""><br><b>AyuGram</b><br><sub>desktop</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/64gram.png" width="56" height="56" alt=""><br><b>64Gram</b><br><sub>desktop</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/kotatogram.png" width="56" height="56" alt=""><br><b>Kotatogram</b><br><sub>desktop</sub></td>
 </tr>
 </table>
 
@@ -209,7 +209,7 @@ TeleVip doesn't rely on a name table for one version. It works it out on your de
 </tr>
 </table>
 
-Details are in the [changelog](CHANGELOG.md).
+Details are in the [changelog](https://github.com/2B-4G10/TeleVIP/blob/main/CHANGELOG.md).
 
 <br>
 
@@ -221,7 +221,7 @@ Partly based on [Re-Telegram](https://github.com/Sakion-Team/Re-Telegram).
 
 ## 📄 License
 
-[GPL-3.0](LICENSE). This project is for educational use.<br>
+[GPL-3.0](https://github.com/2B-4G10/TeleVIP/blob/main/LICENSE). This project is for educational use.<br>
 Modified clients can put a Telegram account at risk, so use it at your own risk.
 
 </div>
