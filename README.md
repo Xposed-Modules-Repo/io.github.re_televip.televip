@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/logo.svg" width="128" alt="TeleVip logo">
+<img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/logo.svg" width="128" alt="Re: TeleVIP logo">
 
 # Re: TeleVIP
 
@@ -91,10 +91,10 @@
   <td valign="top">
 
 1. Download `TeleVip-…-release.apk` from the [latest release](https://github.com/2B-4G10/TeleVIP/releases/latest) and install it.
-2. In LSPosed / Vector: **Modules** → enable **TeleVip** → tick your Telegram clients.
+2. In LSPosed / Vector: **Modules** → enable **Re: TeleVIP** → tick your Telegram clients.
 3. **Force stop** the client and open it again.
 
-<sub>Updating from 1.0.x? The package name changed in 1.1.0: install the new version, uninstall the old <i>TeleVip</i>, and enable it again in LSPosed.</sub>
+<sub>Updating from 1.0.x? The package name changed in 1.1.0: install the new version, uninstall the old <i>TeleVip</i> (<code>com.my.televip</code>), and enable <i>Re: TeleVIP</i> in LSPosed.</sub>
 
   </td>
 </tr>
@@ -169,7 +169,7 @@ To check one, run the *Client watch* workflow by hand with a link to its APK.
 
 ### ⛔ Not supported
 
-TeleVip hooks the Android builds of Telegram's own app. These are separate apps, or not Android.
+Re: TeleVIP hooks the Android builds of Telegram's own app. These are separate apps, or not Android.
 
 <sub><b>OTHER TELEGRAM APPS</b></sub>
 
@@ -199,7 +199,7 @@ TeleVip hooks the Android builds of Telegram's own app. These are separate apps,
 ## ⚙️ How it keeps up
 
 Telegram and its forks rename their code on every release, some almost all of it.<br>
-TeleVip doesn't rely on a name table for one version. It works it out on your device.
+Re: TeleVIP doesn't rely on a name table for one version. It works it out on your device.
 
 <table>
 <tr>
@@ -216,7 +216,7 @@ Details are in the [changelog](https://github.com/2B-4G10/TeleVIP/blob/main/CHAN
 ## 🙏 Credits
 
 **[Mustafa (@mustafa1dev)](https://github.com/mustafa1dev)** is the original author of TeleVip
-([mustafa1dev/TeleVip-LSPosed](https://github.com/mustafa1dev/TeleVip-LSPosed)).<br>
+([mustafa1dev/TeleVip-LSPosed](https://github.com/mustafa1dev/TeleVip-LSPosed)), which Re: TeleVIP continues.<br>
 Partly based on [Re-Telegram](https://github.com/Sakion-Team/Re-Telegram).
 
 ## 📄 License
