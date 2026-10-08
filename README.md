@@ -117,10 +117,11 @@ A release that breaks something opens an issue.
   <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/nagram.png" width="56" height="56" alt=""><br><b>Nagram</b><br><sub>GitHub · last 5</sub></td>
 </tr>
 <tr>
-  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/nagramx.png" width="56" height="56" alt=""><br><b>NagramX</b><br><sub>GitHub · last 5</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/nagramx.png" width="56" height="56" alt=""><br><b>NagramX</b><br><sub>GitHub · full &amp; base · last 5</sub></td>
   <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/forkgram.png" width="56" height="56" alt=""><br><b>Forkgram</b><br><sub>F-Droid · last 5</sub></td>
   <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/forkgram-classic.png" width="56" height="56" alt=""><br><b>Forkgram Classic</b><br><sub>F-Droid · last 5</sub></td>
   <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/mercurygram.png" width="56" height="56" alt=""><br><b>Mercurygram</b><br><sub>F-Droid · last 5</sub></td>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/momogram.png" width="56" height="56" alt=""><br><b>Momogram</b><br><sub>GitHub · last 5</sub></td>
 </tr>
 </table>
 
@@ -151,7 +152,6 @@ To check one, run the *Client watch* workflow by hand with a link to its APK.
 <table>
 <tr>
   <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/telega.png" width="56" height="56" alt=""><br><b>Telega</b><br><sub>RuStore</sub></td>
-  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/momogram.png" width="56" height="56" alt=""><br><b>Momogram</b><br><sub>community fork</sub></td>
   <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/nagramx.png" width="56" height="56" alt=""><br><b>Nagram XF</b><br><sub>NagramX variant</sub></td>
   <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/forkgram.png" width="56" height="56" alt=""><br><b>ForkClient</b><br><sub>Forkgram beta</sub></td>
   <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/nekox.png" width="56" height="56" alt=""><br><b>Nekogram X</b><br><sub>discontinued</sub></td>
