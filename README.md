@@ -69,7 +69,7 @@
 </tr>
 </table>
 
-<sub>…and more in TeleVip's settings, which live inside the client's own <b>Settings</b>.</sub>
+<sub>…and more in <b>Re: TeleVIP Settings 🛸</b>, at the top of the client's own <b>Settings</b>.</sub>
 
 <br>
 
