@@ -125,70 +125,12 @@ A release that breaks something opens an issue.
 </tr>
 </table>
 
-### ☑️ Supported, not checked automatically
-
-The same Telegram code base, published where the weekly check can't download it.<br>
-To check one, run the *Client watch* workflow by hand with a link to its APK.
-
-<sub><b>ON THE PLAY STORE</b></sub>
-
-<table>
-<tr>
-  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/telegram.png" width="56" height="56" alt=""><br><b>Telegram</b><br><sub>Play Store & Beta</sub></td>
-  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/plus.png" width="56" height="56" alt=""><br><b>Plus Messenger</b><br><sub>Play Store</sub></td>
-  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/nicegram.png" width="56" height="56" alt=""><br><b>Nicegram</b><br><sub>Play Store</sub></td>
-  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/ime.png" width="56" height="56" alt=""><br><b>iMe</b><br><sub>Play Store</sub></td>
-</tr>
-<tr>
-  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/xplus.png" width="56" height="56" alt=""><br><b>X Plus</b><br><sub>Play Store</sub></td>
-  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/turrit.png" width="56" height="56" alt=""><br><b>Turrit</b><br><sub>Play Store</sub></td>
-  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/telegraph.png" width="56" height="56" alt=""><br><b>Telegraph</b><br><sub>Play Store</sub></td>
-  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/tgconnect.png" width="56" height="56" alt=""><br><b>TG Connect</b><br><sub>Play Store</sub></td>
-</tr>
-</table>
-
-<sub><b>ELSEWHERE</b></sub>
-
-<table>
-<tr>
-  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/telega.png" width="56" height="56" alt=""><br><b>Telega</b><br><sub>RuStore</sub></td>
-  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/nagramx.png" width="56" height="56" alt=""><br><b>Nagram XF</b><br><sub>NagramX variant</sub></td>
-  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/forkgram.png" width="56" height="56" alt=""><br><b>ForkClient</b><br><sub>Forkgram beta</sub></td>
-  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/nekox.png" width="56" height="56" alt=""><br><b>Nekogram X</b><br><sub>discontinued</sub></td>
-</tr>
-</table>
-
 ### 🟡 Partly works
 
 <table>
 <tr>
   <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/telegram-foss.png" width="56" height="56" alt=""><br><b>Telegram FOSS</b><br><sub>F-Droid · 10.14.3 (2024)</sub></td>
   <td width="420">Its last release predates the Telegram code behind <i>Block ads</i>, <i>Save edits history</i>, Ghost Mode's paid reactions and a photo-viewer button. Everything else works.</td>
-</tr>
-</table>
-
-### ⛔ Not supported
-
-Re: TeleVIP hooks the Android builds of Telegram's own app. These are separate apps, or not Android.
-
-<sub><b>OTHER TELEGRAM APPS</b></sub>
-
-<table>
-<tr>
-  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/telegram-x.png" width="56" height="56" alt=""><br><b>Telegram X</b><br><sub>Android · TDLib</sub></td>
-  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/telegram-ios.png" width="56" height="56" alt=""><br><b>Telegram</b><br><sub>iPhone & iPad</sub></td>
-  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/tdesktop.png" width="56" height="56" alt=""><br><b>Telegram Desktop</b><br><sub>Windows · macOS · Linux</sub></td>
-  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/unigram.png" width="56" height="56" alt=""><br><b>Unigram</b><br><sub>Windows</sub></td>
-</tr>
-</table>
-
-<sub><b>TELEGRAM DESKTOP FORKS</b></sub>
-
-<table>
-<tr>
-  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/ayugram.png" width="56" height="56" alt=""><br><b>AyuGram</b><br><sub>desktop</sub></td>
-  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/64gram.png" width="56" height="56" alt=""><br><b>64Gram</b><br><sub>desktop</sub></td>
-  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/TeleVIP/main/.github/assets/clients/kotatogram.png" width="56" height="56" alt=""><br><b>Kotatogram</b><br><sub>desktop</sub></td>
 </tr>
 </table>
 
