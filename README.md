@@ -83,22 +83,42 @@
 <tr>
   <td valign="top">
 
-- **LSPosed 1.10+** or **Vector 2.2+**<br><sub>libxposed API 102. LSPosed 1.9.x, EdXposed and LSPatch are not supported.</sub>
-- Any Zygisk provider<br><sub>Magisk, KernelSU, Zygisk Next or NeoZygisk</sub>
+- **Vector 2.2+**<br><sub>Re: TeleVIP uses the new Xposed API (102). LSPosed 1.9.x and EdXposed only run older modules, and LSPosed doesn't start on Android 16.</sub>
+- A root manager with Zygisk<br><sub>Magisk has it built in. With KernelSU, KernelSU Next, BakaSU or APatch, add NeoZygisk or Zygisk Next.</sub>
+- No root? **[LSPatch 1.2](https://github.com/JingMatrix/LSPatch/releases/latest)** by JingMatrix<br><sub>Android 9 or newer. See <i>Without root</i> below.</sub>
 - Android 8.1 or newer
+- On Android 17: Magisk 31.0+ and a Vector canary (3112 or newer)<br><sub>Magisk 30.7 and Vector 2.2 stable don't load modules on Android 17.</sub>
 
   </td>
   <td valign="top">
 
 1. Download `TeleVip-…-release.apk` from the [latest release](https://github.com/2B-4G10/Re-TeleVIP/releases/latest) and install it.
-2. In LSPosed / Vector: **Modules** → enable **Re: TeleVIP** → tick your Telegram clients.
+2. In Vector: **Modules** → enable **Re: TeleVIP** → tick your Telegram clients.
 3. **Force stop** the client and open it again.
 
-<sub>Updating from 1.0.x? The package name changed in 1.1.0: install the new version, uninstall the old <i>TeleVip</i> (<code>com.my.televip</code>), and enable <i>Re: TeleVIP</i> in LSPosed.</sub>
+<sub>Updating from 1.0.x? The package name changed in 1.1.0: install the new version, uninstall the old <i>TeleVip</i> (<code>com.my.televip</code>), and enable <i>Re: TeleVIP</i> in Vector.</sub>
 
   </td>
 </tr>
 </table>
+
+<details>
+<summary><b>Without root (LSPatch)</b></summary>
+<br>
+
+<div align="left">
+
+1. Install **Re: TeleVIP** and the **LSPatch** manager.
+2. In LSPatch, tap **+**, pick your Telegram client and choose a patch mode:
+   - **Local**: LSPatch serves the module. Updating Re: TeleVIP only needs a restart of the client.
+   - **Integrated**: tick **Embed modules** → **Re: TeleVIP**. The patched app runs on its own, but every Re: TeleVIP update means patching again.
+3. Patch, then install the result. In Local mode, also tick Re: TeleVIP on the client's page in LSPatch.
+
+<sub>The patched client is signed by LSPatch, so Android has to uninstall the original one first. That deletes what the client keeps on the phone, Re: TeleVIP's settings and secret chats included: you'll sign in again and your cloud chats come back. Updates from the Play Store or the client's own updater won't install over it; patch each new version instead.</sub>
+
+</div>
+
+</details>
 
 <br>
 
@@ -123,6 +143,9 @@ A release that breaks something opens an issue.
   <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/clients/mercurygram.png" width="56" height="56" alt=""><br><b>Mercurygram</b><br><sub>F-Droid · last 5</sub></td>
   <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/clients/momogram.png" width="56" height="56" alt=""><br><b>Momogram</b><br><sub>GitHub · last 5</sub></td>
 </tr>
+<tr>
+  <td align="center" width="140"><img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/clients/plus.png" width="56" height="56" alt=""><br><b>Plus Messenger</b><br><sub>APKPure · last 5</sub></td>
+</tr>
 </table>
 
 ### 🟡 Partly works
@@ -135,6 +158,63 @@ A release that breaks something opens an issue.
 </table>
 
 <sub>App icons belong to their respective projects and are shown only to identify them.</sub>
+
+<br>
+
+## 🧪 Tested on
+
+Every release is tried on Android emulators with each root manager and Vector, in every client above.<br>
+These are the combinations that were checked for 1.2:
+
+<table>
+<tr>
+  <th width="120">Android</th>
+  <th width="420">Works with</th>
+  <th width="260">Notes</th>
+</tr>
+<tr>
+  <td align="center"><b>16</b></td>
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/magisk.png" width="36" height="36" alt="Magisk" title="Magisk">&nbsp;
+    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/kernelsu.png" width="36" height="36" alt="KernelSU" title="KernelSU">&nbsp;
+    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/kernelsu-next.png" width="36" height="36" alt="KernelSU Next" title="KernelSU Next">&nbsp;
+    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/bakasu.png" width="36" height="36" alt="BakaSU" title="BakaSU">&nbsp;
+    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/apatch.png" width="36" height="36" alt="APatch" title="APatch">
+  </td>
+  <td><sub>Magisk, KernelSU, KernelSU Next, BakaSU and APatch</sub></td>
+</tr>
+<tr>
+  <td align="center"><b>15</b></td>
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/magisk.png" width="36" height="36" alt="Magisk" title="Magisk">&nbsp;
+    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/apatch.png" width="36" height="36" alt="APatch" title="APatch">
+  </td>
+  <td><sub>Magisk and APatch. KernelSU wasn't checked: it can't run on this emulator's kernel*</sub></td>
+</tr>
+<tr>
+  <td align="center"><b>14</b></td>
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/magisk.png" width="36" height="36" alt="Magisk" title="Magisk">&nbsp;
+    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/apatch.png" width="36" height="36" alt="APatch" title="APatch">
+  </td>
+  <td><sub>Magisk and APatch. KernelSU wasn't checked: it can't run on this emulator's kernel*</sub></td>
+</tr>
+<tr>
+  <td align="center"><b>13</b></td>
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/magisk.png" width="36" height="36" alt="Magisk" title="Magisk">
+  </td>
+  <td><sub>Magisk</sub></td>
+</tr>
+<tr>
+  <td align="center"><b>17</b></td>
+  <td align="center">—</td>
+  <td><sub>Not tested for 1.2. Earlier builds needed Magisk 31.0+ and a Vector canary there.</sub></td>
+</tr>
+</table>
+
+<sub>* The Android 14 and 15 emulators ship kernels that KernelSU, KernelSU Next and BakaSU can't load into. That is a limit of the emulator, not of these root managers or of Re: TeleVIP: on a phone whose kernel they support, they work as on Android 16.<br>
+Logos belong to their respective projects and are shown only to identify them.</sub>
 
 <br>
 
