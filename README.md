@@ -33,39 +33,29 @@
   <th width="300">💬 Chats</th>
 </tr>
 <tr>
-  <td align="center">Ghost Mode: no <i>seen</i>, <i>typing</i> or <i>online</i></td>
+  <td align="center">Ghost Mode</td>
   <td align="center">Save protected stories</td>
-  <td align="center">Remove content-saving restrictions</td>
-</tr>
-<tr>
-  <td align="center">Hide phone number</td>
-  <td align="center">Save voice messages</td>
-  <td align="center">Save message edit history</td>
+  <td align="center">Show deleted messages</td>
 </tr>
 <tr>
   <td align="center">Hide story views</td>
   <td align="center">Save secret media</td>
+  <td align="center">Save edit history</td>
+</tr>
+<tr>
+  <td align="center">Hide phone number</td>
+  <td align="center">Save voice messages</td>
+  <td align="center">Remove saving limits</td>
+</tr>
+<tr>
+  <td align="center">Block ads</td>
+  <td align="center">Faster downloads</td>
   <td align="center">Hide pinned messages</td>
 </tr>
 <tr>
-  <td align="center">Show deleted messages</td>
-  <td align="center">Always allow saving media</td>
-  <td align="center">Disable stories</td>
-</tr>
-<tr>
-  <td align="center">Keep secret media from self-destructing</td>
-  <td align="center">Faster downloads</td>
-  <td align="center">Disable channel / profile swipe-back</td>
-</tr>
-<tr>
-  <td align="center">Show user IDs on profiles</td>
+  <td align="center">Show user IDs</td>
   <td align="center">Local Premium</td>
-  <td align="center">Jump to first / any message</td>
-</tr>
-<tr>
-  <td align="center">Block ads: sponsored posts, video and search ads, proxy sponsor</td>
-  <td align="center">Hijri and Persian dates</td>
-  <td align="center">Hide app update prompts</td>
+  <td align="center">Hijri & Persian dates</td>
 </tr>
 </table>
 
@@ -155,13 +145,24 @@ A release that breaks something opens an issue.
 ## 🧪 Tested on
 
 Every release is tried on Android emulators with each root manager and Vector, in every client above.<br>
-These are the combinations that were checked for 1.2:
+Android 13 to 16 were checked for 1.2; Android 17 is expected to match 16:
 
 <table>
 <tr>
   <th width="120">Android</th>
   <th width="420">Works with</th>
   <th width="260">Notes</th>
+</tr>
+<tr>
+  <td align="center"><b>17</b></td>
+  <td align="center">
+    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/magisk.png" width="36" height="36" alt="Magisk" title="Magisk">&nbsp;
+    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/kernelsu.png" width="36" height="36" alt="KernelSU" title="KernelSU">&nbsp;
+    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/kernelsu-next.png" width="36" height="36" alt="KernelSU Next" title="KernelSU Next">&nbsp;
+    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/bakasu.png" width="36" height="36" alt="BakaSU" title="BakaSU">&nbsp;
+    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/apatch.png" width="36" height="36" alt="APatch" title="APatch">
+  </td>
+  <td><sub>Expected to work as on Android 16, with Magisk 31.0+ and a current Vector build. Not yet verified on 1.2.</sub></td>
 </tr>
 <tr>
   <td align="center"><b>16</b></td>
@@ -196,11 +197,6 @@ These are the combinations that were checked for 1.2:
     <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/magisk.png" width="36" height="36" alt="Magisk" title="Magisk">
   </td>
   <td><sub>Magisk</sub></td>
-</tr>
-<tr>
-  <td align="center"><b>17</b></td>
-  <td align="center">—</td>
-  <td><sub>Not tested for 1.2. Earlier builds needed Magisk 31.0+ and a Vector canary there.</sub></td>
 </tr>
 </table>
 
