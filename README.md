@@ -134,6 +134,9 @@ A release that breaks something opens an issue.
   <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/clients/momogram.png" width="56" height="56" alt=""><br><b>Momogram</b><br><sub>GitHub</sub></td>
   <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/clients/plus.png" width="56" height="56" alt=""><br><b>Plus Messenger</b><br><sub>APKPure</sub></td>
 </tr>
+<tr>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/clients/graph.png" width="56" height="56" alt=""><br><b>Graph Messenger</b><br><sub>APKPure</sub></td>
+</tr>
 </table>
 
 <sub>Telegram: its newest build. The others: their last five releases.</sub>
@@ -145,7 +148,7 @@ A release that breaks something opens an issue.
 ## 🧪 Tested on
 
 Every release is tried on Android emulators with each root manager and Vector, in every client above.<br>
-Android 13 to 16 were checked for 1.2; Android 17 is expected to match 16:
+Android 13 to 16 were checked for 1.2. 1.3's new features were tried on Android 14 with Nekogram 12.10.5 and on Android 17 with Telegram 13.1:
 
 <table>
 <tr>
@@ -162,7 +165,7 @@ Android 13 to 16 were checked for 1.2; Android 17 is expected to match 16:
     <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/bakasu.png" width="36" height="36" alt="BakaSU" title="BakaSU">&nbsp;
     <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/apatch.png" width="36" height="36" alt="APatch" title="APatch">
   </td>
-  <td><sub>Expected to work as on Android 16, with Magisk 31.0+ and a current Vector build. Not yet verified on 1.2.</sub></td>
+  <td><sub>Works with Magisk 31.0+ and a current Vector build. 1.3 was tried here with Telegram 13.1; the other root managers are expected to work as on Android 16.</sub></td>
 </tr>
 <tr>
   <td align="center"><b>16</b></td>
