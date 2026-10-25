@@ -7,16 +7,17 @@
 **Privacy, ad blocking and quality-of-life features for Telegram and its forks,<br>as a Vector / Xposed module.**
 
 [![Release](https://img.shields.io/github/v/release/2B-4G10/Re-TeleVIP?label=release&color=FFD500)](https://github.com/2B-4G10/Re-TeleVIP/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/2B-4G10/Re-TeleVIP/total?color=2AABEE)](https://github.com/2B-4G10/Re-TeleVIP/releases)
+[![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F2B-4G10%2FRe-TeleVIP%2Fbadges%2Fdownloads.json)](https://github.com/2B-4G10/Re-TeleVIP/releases)
 [![Client watch](https://img.shields.io/github/actions/workflow/status/2B-4G10/Re-TeleVIP/client-watch.yml?label=client%20watch)](https://github.com/2B-4G10/Re-TeleVIP/actions/workflows/client-watch.yml)
 [![Xposed API](https://img.shields.io/badge/libxposed-API%20102-4A4D54)](#-getting-started)
 [![License](https://img.shields.io/badge/license-GPL--3.0-F99B1C)](https://github.com/2B-4G10/Re-TeleVIP/blob/main/LICENSE)
+[![Patreon](https://img.shields.io/badge/Patreon-support-FF424D?logo=patreon&logoColor=white)](https://www.patreon.com/Dossary)
 
 <br>
 
 [![Download the latest APK](https://img.shields.io/badge/Download-latest%20APK-2AABEE?style=for-the-badge&logo=android&logoColor=white)](https://github.com/2B-4G10/Re-TeleVIP/releases/latest)
 
-[Changelog](https://github.com/2B-4G10/Re-TeleVIP/blob/main/CHANGELOG.md) · [Telegram group](https://t.me/Re_TeleVIP) · [Report a problem](https://github.com/2B-4G10/Re-TeleVIP/issues)
+[Changelog](https://github.com/2B-4G10/Re-TeleVIP/blob/main/CHANGELOG.md) · [Telegram channel](https://t.me/Revived_TeleVIP) · [Report a problem](https://github.com/2B-4G10/Re-TeleVIP/issues)
 
 </div>
 
@@ -60,6 +61,8 @@
 </table>
 
 <sub>…and more in <b>Re: TeleVIP Settings 🛸</b>, at the top of the client's own <b>Settings</b>.</sub>
+<br><sub>In English, فارسی, Русский, العربية and 简体中文: it follows the client's language, or pick one under <b>Language</b>.</sub>
+<br><sub>Tells you when a new version is out. Once a day it asks GitHub for the latest release; that is the only connection Re: TeleVIP makes of its own, and nothing about you or your phone is sent. Turn it off with <b>Tell me about new versions</b>.</sub>
 
 <br>
 
@@ -148,7 +151,7 @@ A release that breaks something opens an issue.
 ## 🧪 Tested on
 
 Every release is tried on Android emulators with each root manager and Vector, in every client above.<br>
-Android 13 to 16 were checked for 1.2. 1.3's new features were tried on Android 14 with Nekogram 12.10.5 and on Android 17 with Telegram 13.1:
+Android 13 to 16 were checked for 1.2. 1.4 was tried on Android 14 with Telegram 13.1 and Nekogram 13.0.3 using two accounts:
 
 <table>
 <tr>
@@ -165,7 +168,7 @@ Android 13 to 16 were checked for 1.2. 1.3's new features were tried on Android 
     <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/bakasu.png" width="36" height="36" alt="BakaSU" title="BakaSU">&nbsp;
     <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/apatch.png" width="36" height="36" alt="APatch" title="APatch">
   </td>
-  <td><sub>Works with Magisk 31.0+ and a current Vector build. 1.3 was tried here with Telegram 13.1; the other root managers are expected to work as on Android 16.</sub></td>
+  <td><sub>Works with Magisk 31.0+ and a current Vector build. 1.3 was tried here with Telegram 13.1 and Cherrygram; the other root managers are expected to work as on Android 16.</sub></td>
 </tr>
 <tr>
   <td align="center"><b>16</b></td>
@@ -225,6 +228,13 @@ Details are in the [changelog](https://github.com/2B-4G10/Re-TeleVIP/blob/main/C
 
 <br>
 
+## 💛 Support
+
+Re: TeleVIP is free, and coded in squeezed-in time ☕<br>
+Your support on Patreon makes up for it!
+
+[![Support on Patreon](https://img.shields.io/badge/Support%20on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/Dossary)
+
 ## 🙏 Credits
 
 **[Mustafa (@mustafa1dev)](https://github.com/mustafa1dev)** is the original author of TeleVip
@@ -235,5 +245,11 @@ Partly based on [Re-Telegram](https://github.com/Sakion-Team/Re-Telegram).
 
 [GPL-3.0](https://github.com/2B-4G10/Re-TeleVIP/blob/main/LICENSE). This project is for educational use.<br>
 Modified clients can put a Telegram account at risk, so use it at your own risk.
+
+<br>
+
+---
+
+Made in Saudi 🇸🇦 By: i_2B_4G10🚀
 
 </div>
