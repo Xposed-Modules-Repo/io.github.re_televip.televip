@@ -58,6 +58,11 @@
   <td align="center">Local Premium</td>
   <td align="center">Hijri & Persian dates</td>
 </tr>
+<tr>
+  <td align="center">Show read time</td>
+  <td align="center">Disable stories</td>
+  <td align="center">Show message IDs</td>
+</tr>
 </table>
 
 <sub>…and more in <b>Re: TeleVIP Settings 🛸</b>, at the top of the client's own <b>Settings</b>.</sub>
@@ -151,7 +156,7 @@ A release that breaks something opens an issue.
 ## 🧪 Tested on
 
 Every release is tried on Android emulators with each root manager and Vector, in every client above.<br>
-Android 13 to 16 were checked for 1.2. 1.4 was tried on Android 14 with Telegram 13.1 and Nekogram 13.0.3 using two accounts:
+Android 13 to 16 were checked for 1.2. 1.4 and 1.5 were tried on Android 14 with Telegram 13.1 and Nekogram 13.0.3 using two accounts:
 
 <table>
 <tr>
