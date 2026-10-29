@@ -8,7 +8,6 @@
 
 [![Release](https://img.shields.io/github/v/release/2B-4G10/Re-TeleVIP?label=release&color=FFD500)](https://github.com/2B-4G10/Re-TeleVIP/releases/latest)
 [![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F2B-4G10%2FRe-TeleVIP%2Fbadges%2Fdownloads.json)](https://github.com/2B-4G10/Re-TeleVIP/releases)
-[![Client watch](https://img.shields.io/github/actions/workflow/status/2B-4G10/Re-TeleVIP/client-watch.yml?label=client%20watch)](https://github.com/2B-4G10/Re-TeleVIP/actions/workflows/client-watch.yml)
 [![Xposed API](https://img.shields.io/badge/libxposed-API%20102-4A4D54)](#-getting-started)
 [![License](https://img.shields.io/badge/license-GPL--3.0-F99B1C)](https://github.com/2B-4G10/Re-TeleVIP/blob/main/LICENSE)
 [![Patreon](https://img.shields.io/badge/Patreon-support-FF424D?logo=patreon&logoColor=white)](https://www.patreon.com/Dossary)
@@ -248,7 +247,8 @@ Partly based on [Re-Telegram](https://github.com/Sakion-Team/Re-Telegram).
 
 ## 📄 License
 
-[GPL-3.0](https://github.com/2B-4G10/Re-TeleVIP/blob/main/LICENSE). This project is for educational use.<br>
+[GPL-3.0](https://github.com/2B-4G10/Re-TeleVIP/blob/main/LICENSE). The source code of each version is attached to [its release](https://github.com/2B-4G10/Re-TeleVIP/releases).<br>
+This project is for educational use.<br>
 Modified clients can put a Telegram account at risk, so use it at your own risk.
 
 <br>
