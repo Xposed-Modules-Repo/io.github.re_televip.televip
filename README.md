@@ -155,7 +155,7 @@ A release that breaks something opens an issue.
 ## 🧪 Tested on
 
 Every release is tried on Android emulators with each root manager and Vector, in every client above.<br>
-Android 13 to 16 were checked for 1.2. 1.4 and 1.5 were tried on Android 14 with Telegram 13.1 and Nekogram 13.0.3 using two accounts:
+Android 13 to 16 were checked for 1.2. 1.4, 1.5 and 1.5.1 were tried on Android 14 with Telegram 13.1 and Nekogram 13.0.3 using two accounts:
 
 <table>
 <tr>
