@@ -65,7 +65,7 @@
 </table>
 
 <sub>…and more in <b>Re: TeleVIP Settings 🛸</b>, at the top of the client's own <b>Settings</b>.</sub>
-<br><sub>In English, فارسی, Русский, العربية and 简体中文: it follows the client's language, or pick one under <b>Language</b>.</sub>
+<br><sub>In English, فارسی, Русский, العربية, 简体中文 and Bahasa Indonesia: it follows the client's language, or pick one under <b>Language</b>.</sub>
 <br><sub>Tells you when a new version is out. Once a day it asks GitHub for the latest release; that is the only connection Re: TeleVIP makes of its own, and nothing about you or your phone is sent. Turn it off with <b>Tell me about new versions</b>.</sub>
 
 <br>
