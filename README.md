@@ -232,6 +232,15 @@ Details are in the [changelog](https://github.com/2B-4G10/Re-TeleVIP/blob/main/C
 
 <br>
 
+## 🔒 What it sends
+
+Re: TeleVIP talks to the internet for two things only:
+
+- **Update check.** Once a day it asks GitHub for the latest release. You can turn this off under **Updates**.
+- **Active users count.** Once a day it sends one anonymous message so we know how many people use Re: TeleVIP. It holds a random ID made on your phone, the module version and the name of your Telegram app. It never sends your Telegram account, phone number, contacts or messages, and your IP address is not stored.
+
+<br>
+
 ## 💛 Support
 
 Re: TeleVIP is free, and coded in squeezed-in time ☕<br>
@@ -243,7 +252,8 @@ Your support on Patreon makes up for it!
 
 **[Mustafa (@mustafa1dev)](https://github.com/mustafa1dev)** is the original author of TeleVip
 ([mustafa1dev/TeleVip-LSPosed](https://github.com/mustafa1dev/TeleVip-LSPosed)), which Re: TeleVIP continues.<br>
-Partly based on [Re-Telegram](https://github.com/Sakion-Team/Re-Telegram).
+Partly based on [Re-Telegram](https://github.com/Sakion-Team/Re-Telegram).<br>
+Download Speed Boost follows the approach of [TeleSpeed](https://github.com/Xposed-Modules-Repo/io.github.tehcneko.telespeed) by [tehcneko](https://github.com/tehcneko).
 
 ## 📄 License
 
