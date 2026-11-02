@@ -9,7 +9,7 @@
 [![Release](https://img.shields.io/github/v/release/2B-4G10/Re-TeleVIP?label=release&color=FFD500)](https://github.com/2B-4G10/Re-TeleVIP/releases/latest)
 [![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F2B-4G10%2FRe-TeleVIP%2Fbadges%2Fdownloads.json)](https://github.com/2B-4G10/Re-TeleVIP/releases)
 [![Xposed API](https://img.shields.io/badge/libxposed-API%20102-4A4D54)](#-getting-started)
-[![License](https://img.shields.io/badge/license-GPL--3.0-F99B1C)](https://github.com/2B-4G10/Re-TeleVIP/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-All%20rights%20reserved-F99B1C)](https://github.com/2B-4G10/Re-TeleVIP/blob/main/LICENSE)
 [![Patreon](https://img.shields.io/badge/Patreon-support-FF424D?logo=patreon&logoColor=white)](https://www.patreon.com/Dossary)
 
 <br>
@@ -65,7 +65,7 @@
 </table>
 
 <sub>…and more in <b>Re: TeleVIP Settings 🛸</b>, at the top of the client's own <b>Settings</b>.</sub>
-<br><sub>In English, فارسی, Русский, العربية, 简体中文 and Bahasa Indonesia: it follows the client's language, or pick one under <b>Language</b>.</sub>
+<br><sub>In English, فارسی, Русский, العربية, 简体中文, Bahasa Indonesia and Português (Brasil): it follows the client's language, or pick one under <b>Language</b>.</sub>
 <br><sub>Tells you when a new version is out. Once a day it asks GitHub for the latest release; that is the only connection Re: TeleVIP makes of its own, and nothing about you or your phone is sent. Turn it off with <b>Tell me about new versions</b>.</sub>
 
 <br>
@@ -253,11 +253,13 @@ Your support on Patreon makes up for it!
 **[Mustafa (@mustafa1dev)](https://github.com/mustafa1dev)** is the original author of TeleVip
 ([mustafa1dev/TeleVip-LSPosed](https://github.com/mustafa1dev/TeleVip-LSPosed)), which Re: TeleVIP continues.<br>
 Partly based on [Re-Telegram](https://github.com/Sakion-Team/Re-Telegram).<br>
+Some feature ideas came from [Gramsieve](https://github.com/Xposed-Modules-Repo/com.tianqianguai.gramsieve) (Idea Inspiration).<br>
 Download Speed Boost follows the approach of [TeleSpeed](https://github.com/Xposed-Modules-Repo/io.github.tehcneko.telespeed) by [tehcneko](https://github.com/tehcneko).
 
 ## 📄 License
 
-[GPL-3.0](https://github.com/2B-4G10/Re-TeleVIP/blob/main/LICENSE). The source code of each version is attached to [its release](https://github.com/2B-4G10/Re-TeleVIP/releases).<br>
+© 2026 Faisal AlDossary. All rights reserved: see [LICENSE](https://github.com/2B-4G10/Re-TeleVIP/blob/main/LICENSE) and [NOTICE](https://github.com/2B-4G10/Re-TeleVIP/blob/main/NOTICE.md). From 1.5.4 the source code is not published, and copying, modifying or re-uploading the app needs permission. Versions up to 1.5.3 stay under GPL-3.0.<br>
+The name **Re: TeleVIP** and its logo belong to Faisal AlDossary. Nobody may use them for another app.<br>
 This project is for educational use.<br>
 Modified clients can put a Telegram account at risk, so use it at your own risk.
 
