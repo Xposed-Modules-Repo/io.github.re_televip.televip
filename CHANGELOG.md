@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.5.5 (2 November 2026) — weekly update
+
+- Build: AGP 9.4.1 → 9.5.0
+
 ## 1.5.4 (2 November 2026) — Portuguese, group switches that work, and seconds on Nekogram
 
 **New**
