@@ -1,5 +1,21 @@
 # Changelog
 
+## 1.5.6 (3 November 2026) — Turkish, tidy polls, and a fix for "Can't downgrade database"
+
+**New**
+
+- **Türkçe.** Re: TeleVIP now speaks Turkish. Pick it under **Language**, or it follows your app when the app is in Turkish.
+
+**Fixed**
+
+- **The Re: TeleVIP row in Forkgram Classic's side menu opens the settings when you tap it** (Forkgram Classic 12.10.7 and newer, 13.0.2 included). Tapping it did nothing. If the side menu can't be closed for some reason, the settings still open.
+- **"Can't downgrade database" error.** If an older TeleVip (Re: TeleVIP 1.1 or earlier, or the original TeleVip) was still active next to Re: TeleVIP, or built into an LSPatch-patched app, it could fail or crash on Re: TeleVIP's saved edits. Your edit histories now live in their own file, so the two no longer clash. Nothing is lost.
+- **Clear saved data now clears kept deleted messages too.** Messages Show deleted messages kept in your chats are removed from this phone, on every account, and vanish from the open chat at once. Export them first if you want a copy.
+- **Auto-delete timers.** In groups that delete messages after a set time, like 24 hours, Show deleted messages could lose them when the group reloaded right after you opened the app. They now stay, marked deleted, like any other deleted message.
+- **Polls in channels and their discussion groups.** The views and the author's name under a timed poll were drawn over "ends in …". Re: TeleVIP now measures the poll's footer and its time line as the app laid them out, and moves the time to its own line only when they would touch, with your Re: TeleVIP settings off too.
+- **Long author names.** With seconds, the message ID or the read time on, a long author name under a channel post pushed the time line out of the bubble, and under polls even without them. The name is now shortened with "…" so the line fits, as the app does on its own.
+- **Music on Nekogram.** The file size Nekogram shows after the duration ran into the views and the author's name. The time now moves below it when they would touch. Other messages (text, photos, files, locations) already make room for a long time line.
+
 ## 1.5.5 (2 November 2026) — weekly update
 
 - Build: AGP 9.4.1 → 9.5.0
