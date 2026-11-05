@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.5.7 (5 November 2026) — works with Telegram 13.2
+
+**Fixed**
+
+- **Telegram 13.2.0.** The new official Telegram rearranged a lot of its insides, and most of Re: TeleVIP stopped working on it. Everything works again: the Re: TeleVIP row in Settings, Show user ID and Hide online on profiles, Approximate creation date in the profile menu, Hide update, read time and Show deleted messages. It's safe to update Telegram now.
+- **Show user ID and Hide online on Telegram 13.2's new profile page.** The ID stays under the status as you scroll, and a tap still copies it.
+- **Hide update** now also stops Telegram's own "update available" pop-up on 13.2.
+- **Read time no longer fills the log with errors** on builds that rename Telegram's internals.
+
+Checked on Telegram 13.2.0 and 13.1.1, Nekogram 13.1.1, Cherrygram 11.4.0, Nagram 1255, NagramX 1260, Momogram 13.1.1 and Forkgram Classic 13.0.2.0.
+
 ## 1.5.6 (3 November 2026) — Turkish, tidy polls, and a fix for "Can't downgrade database"
 
 **New**
