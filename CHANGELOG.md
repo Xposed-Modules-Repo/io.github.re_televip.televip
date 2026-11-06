@@ -1,5 +1,28 @@
 # Changelog
 
+## 1.5.81 (7 November 2026) — 22 languages, five settings tabs and fixes
+
+**New**
+
+- **Eight more languages: Japanese, Korean, Thai, Vietnamese, Malay, Tamil, Urdu and Ukrainian.** Re: TeleVIP's settings and menus now come in 22 languages. Urdu reads right to left, like Arabic and Persian. Dates in Japanese, Korean and Chinese are written the way those languages write them (3月12日).
+
+**Changed**
+
+- **Clearer texts in every language.** The explanations under the switches were checked in all languages so each one says what the feature really does. For example, "Hide update prompts" now says it hides the reminders to update, not the updates themselves, and the account's age on a profile is called "Account age".
+- **Settings: five tabs instead of seven.** All, Privacy, Chats (with media and stories), Appearance and Tools (with About). The "Made in Saudi" line now closes every tab.
+- **Settings: a calmer glass header.** The theme and search buttons share one glass pill and the back button sits in a glass circle, as in Telegram's own settings. The search field matches them. The frosted header now fades into the list instead of ending at a hard line.
+
+**Fixed**
+
+- **Edits history in Graph Messenger.** Its message menu takes one more argument, so the Edits history entry never got added there.
+- **The photo viewer's save button stays on Telegram 11.x**, which switches photos through an older, shorter method.
+- **Ad blocking on iMe 11.2** finds the older sponsored-messages request again.
+- **Screenshots in private chats with Disable Sharing are unlocked on Nekogram too**, which renames the parts of Telegram that check it.
+- **Screenshots of protected media from bots.** Bots that protect their content (and protected forwards) mark each message, and the photo viewer blocked screenshots for those whatever the chat. With Remove content-saving restrictions on, the viewer opens them without the block.
+- **Update check where GitHub is blocked.** When GitHub can't be reached (China), the check reads the latest release from the public changelog through jsDelivr, and Download opens the Re: TeleVIP channel in Telegram.
+- **Fewer false alarms in the anonymous hook report.** Methods a build simply doesn't have are now counted as "not in this build", not as broken hooks: the app updater check on Google Play builds (Play updates them), the status-line width on Telegram before 12.10, and the request-type check on Telegram before 11.6.
+- **Version numbers are now x.x.xx.** The last part always has two digits, so 1.5.8 counts as 1.5.80: 1.5.81 comes after it, and a later 1.5.9 (1.5.90) is still offered as an update. The weekly automatic release counts the same way.
+
 ## 1.5.8 (6 November 2026) — new settings look, 14 languages and more fixes
 
 **New**
