@@ -64,8 +64,8 @@
 </tr>
 </table>
 
-<sub>…and more in <b>Re: TeleVIP Settings 🛸</b>, at the top of the client's own <b>Settings</b>.</sub>
-<br><sub>In English, فارسی, Русский, العربية, 简体中文, Bahasa Indonesia, Português (Brasil) and Türkçe: it follows the client's language, or pick one under <b>Language</b>.</sub>
+<sub>…and more in <b>Re: TeleVIP Settings 🛸</b>, at the top of the client's own <b>Settings</b>: sorted into tabs with a search, in a liquid glass or Material You look.</sub>
+<br><sub>In English, Español, Français, Deutsch, Italiano, Русский, Português (Brasil), العربية, فارسی, Türkçe, 简体中文, हिन्दी, বাংলা and Bahasa Indonesia: it follows the client's language, or pick one under <b>Language</b>.</sub>
 <br><sub>Tells you when a new version is out. Once a day it asks GitHub for the latest release; that is the only connection Re: TeleVIP makes of its own, and nothing about you or your phone is sent. Turn it off with <b>Tell me about new versions</b>.</sub>
 
 <br>
@@ -143,6 +143,7 @@ A release that breaks something opens an issue.
 </tr>
 <tr>
   <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/clients/graph.png" width="56" height="56" alt=""><br><b>Graph Messenger</b><br><sub>APKPure</sub></td>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/clients/entinygram.png" width="56" height="56" alt=""><br><b>EntinyGram</b><br><sub>GitHub</sub></td>
 </tr>
 </table>
 
