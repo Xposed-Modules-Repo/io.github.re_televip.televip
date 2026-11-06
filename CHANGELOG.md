@@ -1,5 +1,34 @@
 # Changelog
 
+## 1.5.8 (6 November 2026) — new settings look, 14 languages and more fixes
+
+**New**
+
+- **New look for Re: TeleVIP Settings.** Liquid glass or Material You (it takes its colours from your wallpaper), in light, dark, the system's theme or Telegram's own. The settings are sorted into 7 tabs, with About last, and a search finds any switch.
+- **Liquid glass switch** under Appearance. It turns on Telegram's own liquid glass look, on Android 13 and newer. Off by default, it needs a restart, and Telegram hides it on low-end phones.
+- **EntinyGram.** Re: TeleVIP now supports EntinyGram (ua.entaytion.entinygram), and the weekly check covers its releases.
+- **Spanish, Hindi, French, Bengali, German and Italian.** Re: TeleVIP's settings and menus now come in 14 languages. The language picker lists them under their continent: Asia, Europe and the Americas.
+
+**Fixed**
+
+- **Mentions no longer come back after a restart with Hide "Seen" on.** A mention you scrolled past in a group was only cleared on your phone, so the @ came back the next time the app started. It's now cleared on Telegram's side too. Nobody is told you read anything else.
+- **A deleted pinned message is unpinned right away** with Show deleted messages on. The message is still kept, marked deleted, but the pinned bar moves on instead of showing it until the cache was cleared.
+- **Edits history for your own messages.** Edit a message you sent and **Edits history** in its menu now shows what it said before. Until now only other people's edits were kept.
+- **"Approximate creation date" works without restarting Telegram.** In builds where the chat and the profile share one menu listener, whichever screen you opened first kept the menu clicks, so the profile's entry did nothing until a restart.
+- **Topics open where you stopped reading with Hide "Seen" on.** Telegram never heard about your reads, so each time the app reloaded a group's topics it went back to the old position and opened the topic at its first message. Your read position is now kept on your phone and given back to the topics as they load.
+- **Read time on Telegram 13.2** shows as soon as the other side reads your message again, instead of the next time the message is drawn.
+- **No grey box around the status line on Telegram 13.2** when the user ID is shown. Tapping the ID still copies it.
+- **Disable stories now says it also stops you posting stories.** With it on, Telegram tells you posting is for Premium only, which sent people looking for a Premium problem.
+- **Screenshots in private chats with Disable Sharing.** Since Telegram 12.5 either side of a private chat can turn on Disable Sharing, and screenshots, copying, saving and forwarding stayed blocked there even with Remove content-saving restrictions on. That chat is now unlocked like protected channels and groups.
+- **Forwarding from restricted chats into a forum topic** sends the copy to the topic you picked, not to General.
+- **Albums forwarded from restricted chats stay one album** instead of arriving as separate photos and videos.
+
+**Changed**
+
+- **The anonymous daily active-users ping** now also sends the Telegram app's version, the Android version, the Xposed framework's name, the language Re: TeleVIP shows its texts in, which of the module's hooks did not attach, and which Re: TeleVIP switches are on. Still no Telegram account, phone number, contacts or messages, and the server still keeps no IP.
+
+Checked on Telegram 13.2.0, Nekogram 13.1.1, Cherrygram 11.4.0, Nagram 1255, NagramX 1260, Momogram 13.1.1, Forkgram Classic 13.0.2.0 and EntinyGram 13.1.1.
+
 ## 1.5.7 (5 November 2026) — works with Telegram 13.2
 
 **Fixed**
