@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.5.82 (7 November 2026) — settings that fit every screen, and Suspend updates
+
+**Changed**
+
+- **Suspend client updates** (was Hide update prompts). The client's update prompt stays away until the weekly client check finds the new version working with your Re: TeleVIP; then it shows again for that version. The check's results are fetched once a week from GitHub, or through jsDelivr where GitHub is blocked. Builds updated by a store, or by their own updater (Nekogram), stay quiet as before.
+
+**Fixed**
+
+- **Settings tabs always fit.** On narrow screens, with a large font or long words (German, Tamil) the tabs move closer and then shrink, so all five stay in view and centred.
+- **The settings title shows in full.** It shrinks to fit between the buttons, or takes two lines, on any screen size, density and font size.
+- **Disable Sharing chats on Telegram 13.2 (Google Play).** Copy, Forward and Save were gone from the menu and screenshots blocked again: 13.2 marks every message of such a chat as protected and, in builds compiled ahead of time, folds its small checks into the code that calls them. Re: TeleVIP now clears those marks where the messages and profiles are read, so the menu and screenshots are back; forwards still go out as copies.
+- **The Ghost Mode note opens again** when tapped; 1.5.81 left it folded at two lines.
+
 ## 1.5.81 (7 November 2026) — 22 languages, five settings tabs and fixes
 
 **New**
