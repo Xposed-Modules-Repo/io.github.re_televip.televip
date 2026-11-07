@@ -1,5 +1,20 @@
 # Changelog
 
+## 1.5.83 (7 November 2026) — a compatibility check on the client's Update button, and forwards from Disable Sharing chats
+
+**New**
+
+- **The client's Update button checks compatibility first.** When you tap Telegram's own update, a message tells you what the weekly client check found about that version: green **Success! ✅** when it was tested with your Re: TeleVIP, red **Compatibility is Broken ⛓️‍💥💔** when it doesn't work, or orange **Compatibility Unknown ⚠️** when it hasn't been checked yet. You can still update anyway, or cancel. This works whether or not Suspend client updates is on.
+
+**Changed**
+
+- **Download Speed Boost is marked Beta**, with an orange warning under it: Telegram's servers punish it if you don't have real Telegram Premium, so try your client's own speed booster first.
+
+**Fixed**
+
+- **Forwarding from private chats with Disable Sharing** failed with a red "!". Those chats are protected through the profile rather than each message, so forwards went out as real forwards and Telegram refused them. They now go out as copies, like other protected messages.
+- **Suspend client updates** now also clears an update the client had already saved, so its prompt doesn't come back after a restart.
+
 ## 1.5.82 (7 November 2026) — settings that fit every screen, and Suspend updates
 
 **Changed**
