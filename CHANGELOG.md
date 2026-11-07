@@ -1,5 +1,25 @@
 # Changelog
 
+## 1.5.84 (7 November 2026) — colours of your own, and a Liquid glass switch that turns off
+
+**New**
+
+- **Accent colour**, as in KernelSU's manager: in Settings → Appearance → Look, pick your wallpaper's colour, one of 15 others, or the last circle for any colour you like (hue, saturation and brightness, or type its hex code). It colours both looks.
+- **Colour style**, also from KernelSU: Tonal spot, Neutral, Vibrant, Expressive, Rainbow, Fruit salad, Monochrome, Fidelity or Content, for how the other colours are made from the accent.
+- **Black (AMOLED) theme** for the settings, with pure black behind everything.
+- **Glass clarity and Glass blur** sliders for the liquid glass look: how much of the list shows through, and how strongly it is blurred.
+
+**Changed**
+
+- **The glass at the top of the settings blurs more at the top and less towards the list**, so the frost thins out gradually.
+- **Settings text follows your phone's font size.**
+- **Material You turns the liquid glass off**, and hides its switch, since the two looks don't go together. Restart the app after changing the look for Telegram's glass to follow.
+- The settings keep their place when you change a colour or slider.
+
+**Fixed**
+
+- **Liquid glass stayed on with its switch off.** Telegram saves its power-saving settings again whenever one of them changes, and that kept the glass saved as on. Turning the switch off now turns the glass off (after a restart).
+
 ## 1.5.83 (7 November 2026) — a compatibility check on the client's Update button, and forwards from Disable Sharing chats
 
 **New**
