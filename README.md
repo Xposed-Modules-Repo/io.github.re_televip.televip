@@ -49,7 +49,7 @@
 </tr>
 <tr>
   <td align="center">Block ads</td>
-  <td align="center">Faster downloads</td>
+  <td align="center">Faster downloads (Beta)</td>
   <td align="center">Hide pinned messages</td>
 </tr>
 <tr>
@@ -66,7 +66,8 @@
 
 <sub>…and more in <b>Re: TeleVIP Settings 🛸</b>, at the top of the client's own <b>Settings</b>: sorted into tabs with a search, in a liquid glass or Material You look.</sub>
 <br><sub>In English, Español, Français, Deutsch, Italiano, Русский, Українська, Português (Brasil), العربية, فارسی, اردو, Türkçe, 简体中文, 日本語, 한국어, हिन्दी, বাংলা, தமிழ், ไทย, Tiếng Việt, Bahasa Melayu and Bahasa Indonesia: it follows the client's language, or pick one under <b>Language</b>.</sub>
-<br><sub>Tells you when a new version is out. Once a day it asks GitHub for the latest release; that is the only connection Re: TeleVIP makes of its own, and nothing about you or your phone is sent. Turn it off with <b>Tell me about new versions</b>.</sub>
+<br><sub>Tells you when a new version is out. Once a day it asks GitHub for the latest release; nothing about you or your phone is sent. Turn it off with <b>Tell me about new versions</b>.</sub>
+<br><sub>When you tap your client's own <b>Update</b>, it tells you whether that version was checked with your Re: TeleVIP: ✅ tested, 💔 broken or ⚠️ not checked yet. <b>Suspend client updates</b> holds the update until it's tested.</sub>
 
 <br>
 
@@ -235,9 +236,10 @@ Details are in the [changelog](https://github.com/2B-4G10/Re-TeleVIP/blob/main/C
 
 ## 🔒 What it sends
 
-Re: TeleVIP talks to the internet for two things only:
+Re: TeleVIP talks to the internet for three things only:
 
 - **Update check.** Once a day it asks GitHub for the latest release. You can turn this off under **Updates**.
+- **Client compatibility list.** Once a week it downloads [compat.json](https://github.com/2B-4G10/Re-TeleVIP/blob/main/compat.json) from GitHub (or jsDelivr where GitHub is blocked): which client versions the weekly check found working. It sends nothing about you.
 - **Active users count.** Once a day it sends one anonymous message so we know how many people use Re: TeleVIP. It holds a random ID made on your phone, the module version and the name of your Telegram app. It never sends your Telegram account, phone number, contacts or messages, and your IP address is not stored.
 
 <br>
