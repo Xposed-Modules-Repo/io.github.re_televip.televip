@@ -238,7 +238,7 @@ Details are in the [changelog](https://github.com/2B-4G10/Re-TeleVIP/blob/main/C
 
 Re: TeleVIP talks to the internet for three things only:
 
-- **Update check.** Once a day it asks GitHub for the latest release. You can turn this off under **Updates**.
+- **Update check.** Once a day it asks GitHub for the latest release (or reads the changelog through jsDelivr where GitHub is blocked). **Download** fetches the APK from GitHub, or from jsDelivr when GitHub doesn't answer, or opens the release's post in our Telegram channel. You can turn the daily check off under **Updates**.
 - **Client compatibility list.** Once a week it downloads [compat.json](https://github.com/2B-4G10/Re-TeleVIP/blob/main/compat.json) from GitHub (or jsDelivr where GitHub is blocked): which client versions the weekly check found working. It sends nothing about you.
 - **Active users count.** Once a day it sends one anonymous message so we know how many people use Re: TeleVIP. It holds a random ID made on your phone, the module version and the name of your Telegram app. It never sends your Telegram account, phone number, contacts or messages, and your IP address is not stored.
 
