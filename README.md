@@ -64,7 +64,7 @@
 </tr>
 </table>
 
-<sub>…and more in <b>Re: TeleVIP Settings 🛸</b>, at the top of the client's own <b>Settings</b>: sorted into tabs with a search, in a liquid glass or Material You look.</sub>
+<sub>…and more in <b>Re: TeleVIP Settings 🛸</b>, at the top of the client's own <b>Settings</b>: sorted into four tabs (Privacy, Chats, Appearance, Tools) with a search, in a liquid glass or Material You look.</sub>
 <br><sub>In English, Español, Français, Deutsch, Italiano, Русский, Українська, Português (Brasil), العربية, فارسی, اردو, Türkçe, 简体中文, 日本語, 한국어, हिन्दी, বাংলা, தமிழ், ไทย, Tiếng Việt, Bahasa Melayu and Bahasa Indonesia: it follows the client's language, or pick one under <b>Language</b>.</sub>
 <br><sub>Tells you when a new version is out. Once a day it asks GitHub for the latest release; nothing about you or your phone is sent. Turn it off with <b>Tell me about new versions</b>.</sub>
 <br><sub>When you tap your client's own <b>Update</b>, it tells you whether that version was checked with your Re: TeleVIP: ✅ tested, 💔 broken or ⚠️ not checked yet. <b>Suspend client updates</b> holds the update until it's tested.</sub>
@@ -257,7 +257,8 @@ Your support on Patreon makes up for it!
 ([mustafa1dev/TeleVip-LSPosed](https://github.com/mustafa1dev/TeleVip-LSPosed)), which Re: TeleVIP continues.<br>
 Partly based on [Re-Telegram](https://github.com/Sakion-Team/Re-Telegram).<br>
 Some feature ideas came from [Gramsieve](https://github.com/Xposed-Modules-Repo/com.tianqianguai.gramsieve) (Idea Inspiration).<br>
-Download Speed Boost follows the approach of [TeleSpeed](https://github.com/Xposed-Modules-Repo/io.github.tehcneko.telespeed) by [tehcneko](https://github.com/tehcneko).
+Download Speed Boost follows the approach of [TeleSpeed](https://github.com/Xposed-Modules-Repo/io.github.tehcneko.telespeed) by [tehcneko](https://github.com/tehcneko).<br>
+The settings' glass lens is adapted from [AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass) by [Kyant](https://github.com/Kyant0) (Apache License 2.0).
 
 ## 📄 License
 
