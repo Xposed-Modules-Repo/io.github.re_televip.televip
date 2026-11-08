@@ -1,5 +1,28 @@
 # Changelog
 
+## 1.5.85 (8 November 2026) — updates where GitHub is blocked, and settings fixes
+
+**New**
+
+- **Updates work where GitHub is blocked.** Download tries GitHub, then jsDelivr, then the release's post in our Telegram channel.
+
+**Changed**
+
+- **Telegram's liquid glass stays on when the battery is low.**
+- **Liquid glass switch stays visible in Material You**, dimmed, with a note on how to use it.
+- **LSPatch users are told how to update**: patch the app again, or use LSPatch's local mode.
+- **Import's Merge and Overwrite options show their full explanation.**
+
+**Fixed**
+
+- **Seconds no longer show twice** in message times (14:42:51:51).
+- **Settings tab bar no longer sits on the bare list** after the keyboard or another screen.
+- **No dark box behind the selected settings tab.**
+- **Importing deleted messages works on Nagram** and similar forks.
+- **Approximate creation date works without a restart.**
+- **Ads stay blocked on older Telegram versions** (before 11.3).
+- **Fewer false "hook did not attach" reports.**
+
 ## 1.5.84 (7 November 2026) — colours of your own, and a Liquid glass switch that turns off
 
 **New**
