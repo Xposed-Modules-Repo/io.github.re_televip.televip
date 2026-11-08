@@ -1,5 +1,29 @@
 # Changelog
 
+## 1.5.86 (9 November 2026) — Telegram glass sliders, four tabs, and fixes
+
+**New**
+
+- **Telegram glass clarity and blur sliders.** In Appearance, with the glass look: make the client's own glass on the tab bar, top bar and message field clearer or more frosted, and its blur softer or stronger. In the middle (the default) nothing changes.
+
+**Changed**
+
+- **The settings' tab bar is real liquid glass on Android 13 and later:** the list bends under its rounded edge as it scrolls by, like through a drop of water.
+- **Settings have four tabs: Privacy, Chats, Appearance and Tools.** The All tab is gone; search still looks through every tab.
+
+**Fixed**
+
+- **Scrolling the settings no longer moves a slider** when the finger starts on one. A slider moves when you slide it sideways or tap it.
+- **Imported deleted messages now show in their chat**, also in chats you never scrolled through on the new phone.
+- **Settings no longer jump** while you drag the glass clarity or blur slider.
+- **Dialog buttons are readable on MIUI and HyperOS** (the Done button was the same colour as its fill).
+- **Steadier first start after installing or updating**, on slow phones.
+- **Download speed boost works again on Forkgram and Fork Client 13.2.**
+- **Importing deleted messages counts only the new ones**, so importing the same backup again with Merge says 0.
+- **No square box behind the settings tab bar's rounded ends.**
+- **Picking a file that isn't a backup says so** instead of "Could not read or write the file".
+- **The Telegram glass clarity slider works on official Telegram 13.2.** It was changing the wrong colour there.
+
 ## 1.5.85 (8 November 2026) — updates where GitHub is blocked, and settings fixes
 
 **New**
