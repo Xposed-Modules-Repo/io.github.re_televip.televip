@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.5.87 (9 November 2026) — weekly update
+
+**Fixed**
+
+- **Telegram 13.2.1:** the channel, support and update links in Re: TeleVIP open again.
+
 ## 1.5.86 (9 November 2026) — Telegram glass sliders, four tabs, and fixes
 
 **New**
