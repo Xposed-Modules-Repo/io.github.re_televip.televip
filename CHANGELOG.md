@@ -1,5 +1,25 @@
 # Changelog
 
+## 1.5.88 (10 November 2026) — Telegram glass on more phones, sharp wallpaper and fixes
+
+**New**
+
+- **Sharp wallpaper in Telegram glass.** In Appearance, with the glass look: the tab bar, top bar and message field bend a clear picture of your photo wallpaper instead of a blurred colour wash. Off by default; it applies to chats opened after you turn it on.
+- **Preload the Profile tab** (Appearance, off by default): the bottom bar's Profile tab is built while the app is idle, so the first switch to it doesn't stutter.
+- **Use glass on this phone anyway** (Appearance, with the glass look; off by default): Telegram draws no glass on phones it rates as low performance, and this draws it there too. The glass switch now says when Telegram won't draw glass on your phone, and why.
+- **Supported clients in About.** The end of the Tools tab lists the clients Re: TeleVIP is checked with every week, each with the newest version that works; tap one to open its official download page.
+- **Liquid glass top bar buttons.** In the settings' glass look, the back button and the theme and search buttons are liquid glass like the tab bar: on Android 13 and later the list bends under their rims as it scrolls by.
+- **Make the glass tab bar your own.** In Appearance → Look, with the glass look: Tab bar size (compact, standard or large) and Tab bar glass (clear, standard or frosted). Standard is the bar as before.
+- **Springy glass buttons.** With the glass look, the settings' top bar buttons give under your finger, stretch a little as you drag, and spring back like liquid glass (Appearance → Look; on by default, and off whenever the phone's animations are off).
+
+**Fixed**
+
+- **Edit history, approximate creation date and "go to message" open every time.** After leaving the app and coming back (without closing it), their window did not open until Telegram was restarted; Android 16 refuses it outright.
+- **Posting to your profile or stories works with Local Premium on.** The post went out with Premium-only settings (how long it stays, splitting long videos), which Telegram refuses for accounts without Premium. A 6, 12 or 48 hour period picked from the menu is now sent as 24 hours.
+- **Download Speed Boost says what it can't do.** Telegram's servers cap download speed for accounts without Premium; past the cap the boost can't go faster ("Download speed limited"). It now steps back to the client's own settings for a minute after each limit, so it doesn't cause extra waits, and its note explains the cap.
+- **Telegram's glass no longer goes away on battery saver, or with chat blur off in power saving.** The glass needs Telegram's chat blur under it; it now keeps that on with the glass.
+- **Deleted messages stay in groups and channels when older history is cleared.** When a channel or group's history was cleared up to a message (by its admins, or hidden for new members), or a forum topic was removed, the messages Show deleted messages had kept went with it. They now stay; clearing a chat yourself still empties it.
+
 ## 1.5.87 (9 November 2026) — weekly update
 
 **Fixed**
