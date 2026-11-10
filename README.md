@@ -258,7 +258,8 @@ Your support on Patreon makes up for it!
 Partly based on [Re-Telegram](https://github.com/Sakion-Team/Re-Telegram).<br>
 Some feature ideas came from [Gramsieve](https://github.com/Xposed-Modules-Repo/com.tianqianguai.gramsieve) (Idea Inspiration).<br>
 Download Speed Boost follows the approach of [TeleSpeed](https://github.com/Xposed-Modules-Repo/io.github.tehcneko.telespeed) by [tehcneko](https://github.com/tehcneko).<br>
-The settings' glass lens is adapted from [AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass) by [Kyant](https://github.com/Kyant0) (Apache License 2.0).
+The settings' glass lens is adapted from [AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass) by [Kyant](https://github.com/Kyant0) (Apache License 2.0).<br>
+The Telegram glass sliders and sharp wallpaper follow ideas from [TG-Liquid-Glass](https://github.com/YuanhaoBei/TG-Liquid-Glass) by [YuanhaoBei](https://github.com/YuanhaoBei) (Apache License 2.0).
 
 ## 📄 License
 
