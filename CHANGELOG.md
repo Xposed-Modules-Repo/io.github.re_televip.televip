@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.5.89 (13 November 2026) — no list crashes on Telegram 13.2.2, and fixes for Nekogram and Forkgram
+
+**Fixed**
+
+- **Lists no longer crash on Telegram 13.2.2.** A rare layout error ("trying to unhide a view that was not hidden") could bring down a chat or the chat list while messages animated. Re: TeleVIP now catches that one error and lets the list carry on — on official Telegram and on the forks that rename their internals.
+- **Nekogram 13.2.2: menu actions, the Downloads shortcut and the secret-media buttons work again.** Telegram 13.2 added new parts to its screens that Re: TeleVIP mistook for the toolbar, so those buttons did nothing there. It now finds the real one.
+- **Forkgram 13.2.1.0: opening links, the "Forwarded from" note on copies, and reply detection work again.** Forkgram renamed and moved these parts; Re: TeleVIP follows them on 13.2.1.0.
+
+**Changed**
+
+- **A tidier Supported clients list.** Telegram now shows once, simply as "Telegram", and NagramX shows once instead of twice. Both builds are still checked every week and keep working as before.
+- **Supported clients shows the newest versions sooner.** The list of checked versions is now picked up within a day of each weekly check instead of up to a week later, and Telegram shows the newest Telegram that passed (for example 13.2.1 from telegram.org, before Google Play has it).
+
 ## 1.5.88 (10 November 2026) — Telegram glass on more phones, sharp wallpaper and fixes
 
 **New**
