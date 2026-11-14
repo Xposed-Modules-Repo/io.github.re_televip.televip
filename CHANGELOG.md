@@ -1,5 +1,28 @@
 # Changelog
 
+## 1.5.90 (14 November 2026) — secret chats keep deleted messages, forwards download first, and more fixes
+
+**New**
+
+- **Save and Mark as seen for view-once voice and round video messages.** They play in a small player of their own, so the secret media buttons never showed for them. With Prevent media or Secret media save on, that player now has Save (voice messages go to Music/Telegram) and, with Prevent media, Mark as seen.
+
+**Fixed**
+
+- **Forwarding from restricted chats no longer stops at "download first".** A video that plays while it streams looks downloaded and isn't, and big files wait for a tap. Re: TeleVIP now downloads what is missing and then sends the whole forward by itself, in order and with albums kept together.
+- **Messages the other side deletes in a secret chat are kept.** With Show deleted messages on, they vanished there: a secret chat's deletions don't come through Telegram's server like the others. They are now kept and marked deleted, as in every other chat.
+- **A secret chat the other side deletes for both stays on your phone.** With Show deleted messages on, the chat is shown as cancelled with its messages still in it, until you delete it yourself.
+- **Nagram 13.2.1: Remove content-saving restrictions works again.** Nagram added a look-alike of the check Re: TeleVIP switches off, so the feature did not start there: restricted chats still blocked copying, saving and forwarding. It now finds the right one, and a part one client lacks no longer stops the feature's other parts.
+- **Saving protected stories.** The story's "no forwards" mark is now cleared where the story is read, so screenshots, Save to Gallery and Share follow Enable saving stories.
+- **Telegram glass: the tab bar is drawn again after the app starts.** On some phones it stayed plain until you opened a chat and came back, because it was drawn once before the chat list under it existed.
+
+**Changed**
+
+- **Edit history is easier to read.** Each version has its own heading and a blank line before it, instead of running together as one block of text.
+
+**Good to know**
+
+- **Vector and Telegram from Google Play.** If Vector does not list Telegram or loads no module into it, the cause is how Google Play installed it (a streamed "incremental" install), not Re: TeleVIP. Use Telegram from telegram.org, or install the Play build's files again by hand; see the README.
+
 ## 1.5.89 (13 November 2026) — no list crashes on Telegram 13.2.2, and fixes for Nekogram and Forkgram
 
 **Fixed**
