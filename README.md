@@ -39,7 +39,7 @@
 </tr>
 <tr>
   <td align="center">Hide story views</td>
-  <td align="center">Save secret media</td>
+  <td align="center">Save secret media, view-once voice & video</td>
   <td align="center">Save edit history</td>
 </tr>
 <tr>
@@ -93,6 +93,8 @@
 1. Download `TeleVip-…-release.apk` from the [latest release](https://github.com/2B-4G10/Re-TeleVIP/releases/latest) and install it.
 2. In Vector: **Modules** → enable **Re: TeleVIP** → tick your Telegram clients.
 3. **Force stop** the client and open it again.
+
+<sub><b>Vector doesn't list Telegram from Google Play, or loads nothing into it?</b> Google Play can install it as a streamed ("incremental") install, which Vector does not load modules into. Use Telegram from <a href="https://telegram.org/android">telegram.org</a>, or install the same files again the normal way: copy the paths from <code>adb shell pm path org.telegram.messenger</code> to your computer with <code>adb pull</code>, then <code>adb install-multiple -r --no-incremental</code> them. Your chats and login stay. A later Play update can bring it back.</sub>
 
 <sub>Updating from 1.0.x? The package name changed in 1.1.0: install the new version, uninstall the old <i>TeleVip</i> (<code>com.my.televip</code>), and enable <i>Re: TeleVIP</i> in Vector.</sub>
 
