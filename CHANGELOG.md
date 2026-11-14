@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.5.91 (14 November 2026) — the glass tab bar from the start, Save on every story
+
+**Fixed**
+
+- **Telegram glass: the tab bar is liquid glass as soon as the app opens.** It stayed plain until you opened a chat and came back, also after leaving with Back and reopening, and with a chat list too short to reach the bar. 1.5.90 drew the bar again, which was not the cause: Telegram records the picture under the bar once, before the chat list has said where the bar is, and keeps it. That picture is now recorded again after the app opens and whenever the chat list moves its glass areas.
+- **Saving stories: "Save to Gallery" on every story.** Telegram only offers it on stories posted to Everyone, so stories posted to contacts, close friends or selected people had no Save at all. With Enable Saving Stories on, they now have it, with Copy Link and Share. Telegram keeps Save locked for accounts without Premium; Local Premium unlocks it.
+- **Supported apps in settings showed old versions.** The list was only written once a week, so a client released midweek kept its old version until the next Monday. It is now refreshed after every release.
+
 ## 1.5.90 (14 November 2026) — secret chats keep deleted messages, forwards download first, and more fixes
 
 **New**
