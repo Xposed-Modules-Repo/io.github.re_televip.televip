@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.5.92 (16 November 2026) — weekly update
+
+- Build: Gradle 9.9.0 → 9.9.1
+
 ## 1.5.91 (14 November 2026) — the glass tab bar from the start, Save on every story
 
 **Fixed**
