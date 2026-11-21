@@ -1,5 +1,26 @@
 # Changelog
 
+## 1.5.93 (21 November 2026) — Telegram 13.3, phone number protection and glass message bubbles
+
+**New**
+
+- **Phone number protection.** A new card in Privacy settings. Telegram's hidden number can't be read by any app; "number finder" tools get it by tricking you into sharing it, by guessing numbers through contact sync, or from old leaked lists. Re: TeleVIP now closes the first two:
+  - **Privacy check** shows who can see your number, who can find you by it and who sees your IP in calls, and sets all three safe in one tap (Nobody, My contacts, Nobody). It also checks once after start and tells you if anyone can see or find your number.
+  - **Ask before my number is shared**: a bot's "Share contact" button, a mini app asking for your number, "Add contact" with "Share my phone number" ticked, the "Share my phone number" bar and a message with your number typed in now ask first.
+    "Don't send" on a typed message puts it back in the typing box, ready to edit, instead of leaving a failed message in the chat.
+  - **Warn before installing apps from chats**: an APK or Xposed module opened from a chat shows what it is before it goes to the installer. Your client's own update and Re: TeleVIP's own release pass without asking.
+
+- **Glass message bubbles** (Appearance, off by default): message bubbles are see-through, so your wallpaper shows behind them instead of a solid colour. Text, photos and everything else in a message stay fully visible.
+
+**Fixed**
+
+- **Telegram 13.3 patched with LSPatch no longer crash-loops in the background.** Telegram 13.3 starts a second widget service in a separate process with the app. A patched app can't run those processes, so Android started it again and again, which filled the phone's usage records and on some phones made the system restart. Re: TeleVIP now switches those services off in a patched app (they can't work there anyway). With Vector nothing changes.
+- **Graph Messenger 13.2.2: Prevent media, Save edit history and keeping deleted messages work again.** Graph kept an old part's name while moving to Telegram 13.2's new one, so Re: TeleVIP looked in the wrong place. It now follows the one Graph really uses.
+
+**Checked**
+
+- **Telegram 13.3.0** (telegram.org build 73419): every feature finds its code, with full hook health on the emulator.
+
 ## 1.5.92 (16 November 2026) — weekly update
 
 - Build: Gradle 9.9.0 → 9.9.1
