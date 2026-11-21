@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/logo.svg" width="128" alt="Re: TeleVIP logo">
+<img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/logo.svg" width="128" alt="Re: TeleVIP logo">
 
 # Re: TeleVIP
 
 **Privacy, ad blocking and quality-of-life features for Telegram and its forks,<br>as a Vector / Xposed module.**
 
-[![Release](https://img.shields.io/github/v/release/2B-4G10/Re-TeleVIP?label=release&color=FFD500)](https://github.com/2B-4G10/Re-TeleVIP/releases/latest)
-[![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F2B-4G10%2FRe-TeleVIP%2Fbadges%2Fdownloads.json)](https://github.com/2B-4G10/Re-TeleVIP/releases)
+[![Release](https://img.shields.io/github/v/release/Dream1Works/Re-TeleVIP?label=release&color=FFD500)](https://github.com/Dream1Works/Re-TeleVIP/releases/latest)
+[![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F2B-4G10%2FRe-TeleVIP%2Fbadges%2Fdownloads.json)](https://github.com/Dream1Works/Re-TeleVIP/releases)
 [![Xposed API](https://img.shields.io/badge/libxposed-API%20102-4A4D54)](#-getting-started)
-[![License](https://img.shields.io/badge/license-All%20rights%20reserved-F99B1C)](https://github.com/2B-4G10/Re-TeleVIP/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-All%20rights%20reserved-F99B1C)](https://github.com/Dream1Works/Re-TeleVIP/blob/main/LICENSE)
 [![Patreon](https://img.shields.io/badge/Patreon-support-FF424D?logo=patreon&logoColor=white)](https://www.patreon.com/Dossary)
 
 <br>
 
-[![Download the latest APK](https://img.shields.io/badge/Download-latest%20APK-2AABEE?style=for-the-badge&logo=android&logoColor=white)](https://github.com/2B-4G10/Re-TeleVIP/releases/latest)
+[![Download the latest APK](https://img.shields.io/badge/Download-latest%20APK-2AABEE?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Dream1Works/Re-TeleVIP/releases/latest)
 
-[Changelog](https://github.com/2B-4G10/Re-TeleVIP/blob/main/CHANGELOG.md) · [Telegram channel](https://t.me/Revived_TeleVIP) · [Report a problem](https://github.com/2B-4G10/Re-TeleVIP/issues)
+[Changelog](https://github.com/Dream1Works/Re-TeleVIP/blob/main/CHANGELOG.md) · [Telegram channel](https://t.me/Revived_TeleVIP) · [Report a problem](https://github.com/Dream1Works/Re-TeleVIP/issues)
 
 </div>
 
@@ -90,7 +90,7 @@
   </td>
   <td valign="top">
 
-1. Download `TeleVip-…-release.apk` from the [latest release](https://github.com/2B-4G10/Re-TeleVIP/releases/latest) and install it.
+1. Download `TeleVip-…-release.apk` from the [latest release](https://github.com/Dream1Works/Re-TeleVIP/releases/latest) and install it.
 2. In Vector: **Modules** → enable **Re: TeleVIP** → tick your Telegram clients.
 3. **Force stop** the client and open it again.
 
@@ -131,22 +131,22 @@ A release that breaks something opens an issue.
 
 <table>
 <tr>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/clients/telegram.png" width="56" height="56" alt=""><br><b>Telegram</b><br><sub>telegram.org</sub></td>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/clients/nekogram.png" width="56" height="56" alt=""><br><b>Nekogram</b><br><sub>GitHub</sub></td>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/clients/cherrygram.png" width="56" height="56" alt=""><br><b>Cherrygram</b><br><sub>GitHub</sub></td>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/clients/nagram.png" width="56" height="56" alt=""><br><b>Nagram</b><br><sub>GitHub</sub></td>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/clients/nagramx.png" width="56" height="56" alt=""><br><b>Nagram X</b><br><sub>GitHub · full + base</sub></td>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/telegram.png" width="56" height="56" alt=""><br><b>Telegram</b><br><sub>telegram.org</sub></td>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/nekogram.png" width="56" height="56" alt=""><br><b>Nekogram</b><br><sub>GitHub</sub></td>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/cherrygram.png" width="56" height="56" alt=""><br><b>Cherrygram</b><br><sub>GitHub</sub></td>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/nagram.png" width="56" height="56" alt=""><br><b>Nagram</b><br><sub>GitHub</sub></td>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/nagramx.png" width="56" height="56" alt=""><br><b>Nagram X</b><br><sub>GitHub · full + base</sub></td>
 </tr>
 <tr>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/clients/forkgram.png" width="56" height="56" alt=""><br><b>Forkgram</b><br><sub>F-Droid</sub></td>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/clients/forkgram-classic.png" width="56" height="56" alt=""><br><b>Forkgram Classic</b><br><sub>F-Droid</sub></td>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/clients/mercurygram.png" width="56" height="56" alt=""><br><b>Mercurygram</b><br><sub>F-Droid</sub></td>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/clients/momogram.png" width="56" height="56" alt=""><br><b>Momogram</b><br><sub>GitHub</sub></td>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/clients/plus.png" width="56" height="56" alt=""><br><b>Plus Messenger</b><br><sub>APKPure</sub></td>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/forkgram.png" width="56" height="56" alt=""><br><b>Forkgram</b><br><sub>F-Droid</sub></td>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/forkgram-classic.png" width="56" height="56" alt=""><br><b>Forkgram Classic</b><br><sub>F-Droid</sub></td>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/mercurygram.png" width="56" height="56" alt=""><br><b>Mercurygram</b><br><sub>F-Droid</sub></td>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/momogram.png" width="56" height="56" alt=""><br><b>Momogram</b><br><sub>GitHub</sub></td>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/plus.png" width="56" height="56" alt=""><br><b>Plus Messenger</b><br><sub>APKPure</sub></td>
 </tr>
 <tr>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/clients/graph.png" width="56" height="56" alt=""><br><b>Graph Messenger</b><br><sub>APKPure</sub></td>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/clients/entinygram.png" width="56" height="56" alt=""><br><b>EntinyGram</b><br><sub>GitHub</sub></td>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/graph.png" width="56" height="56" alt=""><br><b>Graph Messenger</b><br><sub>APKPure</sub></td>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/entinygram.png" width="56" height="56" alt=""><br><b>EntinyGram</b><br><sub>GitHub</sub></td>
 </tr>
 </table>
 
@@ -170,45 +170,45 @@ Android 13 to 16 were checked for 1.2. 1.4, 1.5 and 1.5.1 were tried on Android 
 <tr>
   <td align="center"><b>17</b></td>
   <td align="center">
-    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/magisk.png" width="36" height="36" alt="Magisk" title="Magisk">&nbsp;
-    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/kernelsu.png" width="36" height="36" alt="KernelSU" title="KernelSU">&nbsp;
-    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/kernelsu-next.png" width="36" height="36" alt="KernelSU Next" title="KernelSU Next">&nbsp;
-    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/bakasu.png" width="36" height="36" alt="BakaSU" title="BakaSU">&nbsp;
-    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/apatch.png" width="36" height="36" alt="APatch" title="APatch">
+    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/magisk.png" width="36" height="36" alt="Magisk" title="Magisk">&nbsp;
+    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/kernelsu.png" width="36" height="36" alt="KernelSU" title="KernelSU">&nbsp;
+    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/kernelsu-next.png" width="36" height="36" alt="KernelSU Next" title="KernelSU Next">&nbsp;
+    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/bakasu.png" width="36" height="36" alt="BakaSU" title="BakaSU">&nbsp;
+    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/apatch.png" width="36" height="36" alt="APatch" title="APatch">
   </td>
   <td><sub>Works with Magisk 31.0+ and a current Vector build. 1.3 was tried here with Telegram 13.1 and Cherrygram; the other root managers are expected to work as on Android 16.</sub></td>
 </tr>
 <tr>
   <td align="center"><b>16</b></td>
   <td align="center">
-    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/magisk.png" width="36" height="36" alt="Magisk" title="Magisk">&nbsp;
-    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/kernelsu.png" width="36" height="36" alt="KernelSU" title="KernelSU">&nbsp;
-    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/kernelsu-next.png" width="36" height="36" alt="KernelSU Next" title="KernelSU Next">&nbsp;
-    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/bakasu.png" width="36" height="36" alt="BakaSU" title="BakaSU">&nbsp;
-    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/apatch.png" width="36" height="36" alt="APatch" title="APatch">
+    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/magisk.png" width="36" height="36" alt="Magisk" title="Magisk">&nbsp;
+    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/kernelsu.png" width="36" height="36" alt="KernelSU" title="KernelSU">&nbsp;
+    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/kernelsu-next.png" width="36" height="36" alt="KernelSU Next" title="KernelSU Next">&nbsp;
+    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/bakasu.png" width="36" height="36" alt="BakaSU" title="BakaSU">&nbsp;
+    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/apatch.png" width="36" height="36" alt="APatch" title="APatch">
   </td>
   <td><sub>Magisk, KernelSU, KernelSU Next, BakaSU and APatch</sub></td>
 </tr>
 <tr>
   <td align="center"><b>15</b></td>
   <td align="center">
-    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/magisk.png" width="36" height="36" alt="Magisk" title="Magisk">&nbsp;
-    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/apatch.png" width="36" height="36" alt="APatch" title="APatch">
+    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/magisk.png" width="36" height="36" alt="Magisk" title="Magisk">&nbsp;
+    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/apatch.png" width="36" height="36" alt="APatch" title="APatch">
   </td>
   <td><sub>Magisk and APatch. KernelSU wasn't checked: it can't run on this emulator's kernel*</sub></td>
 </tr>
 <tr>
   <td align="center"><b>14</b></td>
   <td align="center">
-    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/magisk.png" width="36" height="36" alt="Magisk" title="Magisk">&nbsp;
-    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/apatch.png" width="36" height="36" alt="APatch" title="APatch">
+    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/magisk.png" width="36" height="36" alt="Magisk" title="Magisk">&nbsp;
+    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/apatch.png" width="36" height="36" alt="APatch" title="APatch">
   </td>
   <td><sub>Magisk and APatch. KernelSU wasn't checked: it can't run on this emulator's kernel*</sub></td>
 </tr>
 <tr>
   <td align="center"><b>13</b></td>
   <td align="center">
-    <img src="https://raw.githubusercontent.com/2B-4G10/Re-TeleVIP/main/.github/assets/root/magisk.png" width="36" height="36" alt="Magisk" title="Magisk">
+    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/magisk.png" width="36" height="36" alt="Magisk" title="Magisk">
   </td>
   <td><sub>Magisk</sub></td>
 </tr>
@@ -232,7 +232,7 @@ Re: TeleVIP doesn't rely on a name table for one version. It works it out on you
 </tr>
 </table>
 
-Details are in the [changelog](https://github.com/2B-4G10/Re-TeleVIP/blob/main/CHANGELOG.md).
+Details are in the [changelog](https://github.com/Dream1Works/Re-TeleVIP/blob/main/CHANGELOG.md).
 
 <br>
 
@@ -241,7 +241,7 @@ Details are in the [changelog](https://github.com/2B-4G10/Re-TeleVIP/blob/main/C
 Re: TeleVIP talks to the internet for three things only:
 
 - **Update check.** Once a day it asks GitHub for the latest release (or reads the changelog through jsDelivr where GitHub is blocked). **Download** fetches the APK from GitHub, or from jsDelivr when GitHub doesn't answer, or opens the release's post in our Telegram channel. You can turn the daily check off under **Updates**.
-- **Client compatibility list.** Once a week it downloads [compat.json](https://github.com/2B-4G10/Re-TeleVIP/blob/main/compat.json) from GitHub (or jsDelivr where GitHub is blocked): which client versions the weekly check found working. It sends nothing about you.
+- **Client compatibility list.** Once a week it downloads [compat.json](https://github.com/Dream1Works/Re-TeleVIP/blob/main/compat.json) from GitHub (or jsDelivr where GitHub is blocked): which client versions the weekly check found working. It sends nothing about you.
 - **Active users count.** Once a day it sends one anonymous message so we know how many people use Re: TeleVIP. It holds a random ID made on your phone, the module version and the name of your Telegram app. It never sends your Telegram account, phone number, contacts or messages, and your IP address is not stored.
 
 <br>
@@ -265,7 +265,7 @@ The Telegram glass sliders and sharp wallpaper follow ideas from [TG-Liquid-Glas
 
 ## 📄 License
 
-© 2026 Faisal AlDossary. All rights reserved: see [LICENSE](https://github.com/2B-4G10/Re-TeleVIP/blob/main/LICENSE) and [NOTICE](https://github.com/2B-4G10/Re-TeleVIP/blob/main/NOTICE.md). From 1.5.4 the source code is not published, and copying, modifying or re-uploading the app needs permission. Versions up to 1.5.3 stay under GPL-3.0.<br>
+© 2026 Faisal AlDossary. All rights reserved: see [LICENSE](https://github.com/Dream1Works/Re-TeleVIP/blob/main/LICENSE) and [NOTICE](https://github.com/Dream1Works/Re-TeleVIP/blob/main/NOTICE.md). From 1.5.4 the source code is not published, and copying, modifying or re-uploading the app needs permission. Versions up to 1.5.3 stay under GPL-3.0.<br>
 The name **Re: TeleVIP** and its logo belong to Faisal AlDossary. Nobody may use them for another app.<br>
 This project is for educational use.<br>
 Modified clients can put a Telegram account at risk, so use it at your own risk.
