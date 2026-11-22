@@ -1,5 +1,38 @@
 # Changelog
 
+## 1.6 (22 November 2026) — Re: TeleVIP Premium, brand-new settings and a menu that works on deleted messages
+
+**New (free)**
+
+- **Settings, rewritten and reorganized.** Every switch has a clear new name, an emoji and a short explanation, in all 22 languages. Features now sit in cards by what they do: new **Deleted messages and backups**, **Ads**, **Liquid glass** and **Profiles** cards, and all the Telegram liquid glass controls are together in one card with a note on how to turn them on. Premium features carry a ⭐ Premium mark in the card where they belong. Your saved choices stay as they were.
+
+**New: Re: TeleVIP Premium**
+
+Premium is an optional subscription that unlocks extra features. You subscribe from **Re: TeleVIP → Premium**, and Premium turns on by itself once the payment goes through. One subscription works on one phone. Changing phones? Tap **Remove from this phone** on the old one, then enter your code on the new one.
+
+- **Encrypted cloud backup.** Back up kept deleted messages and edit history to the cloud, by hand or once a day, and restore them on any phone with your code. The backup is encrypted on your phone with your activation code, so only you can open it.
+- **Live ad and scam list.** Hides messages from ad and scam channels, bots and links on a list we keep up to date.
+- **Hide ads by keywords and links.** Make your own list of words and links (right below **Block ads**), and messages that contain them show a short "Ad hidden" line instead. Comes with a ready list of about 270 known Chinese ad channels, bots and shops, which you can edit or clear.
+- **Bigger storage for deleted messages.** Without Premium the newest 50 MB of kept deleted messages stay. With Premium, pick 512 KB, 1, 5, 10, 50 or 100 MB, 1 GB or unlimited.
+- **Hide my number, Warn me if my number is exposed and Privacy check,** **Save self-destructing media,** **Unlock saving in restricted chats** (with Say where a copy came from) and **Local Telegram Premium** are Premium features now.
+- **Message details.** A folded details line and who reacted, right under a message.
+- **Creation date on profiles.** A user's approximate creation date shows under their name. The profile menu entry has its own switch now too (free, on as before).
+- **Always show the proxy button,** next to Downloads at the top of the chat list.
+- **Export and import your settings.** In **Deleted messages and backups**: every Re: TeleVIP setting (switches, look, glass, language) saved to one file, and brought back on a new phone or after a reinstall. Your subscription is never put in the file, and an import leaves it as it is.
+- **My colours and emoji.** Pick your own name colour and profile emoji, even without Telegram Premium. They show on your phone, in every chat and on your profile.
+- **File sizes in albums.** In **Media**: the real size on each photo and video of an album, in a small label at its corner.
+- **Turn off pull up to the next channel,** so pulling up at the end of a channel no longer jumps to the next one.
+
+Liquid glass, glass bubbles and the sharp wallpaper stay free.
+
+**Improved**
+
+- **Kept deleted messages get a menu that works.** Long-pressing a message someone deleted (kept by Show deleted messages) no longer offers Reply, Forward, Edit, Pin, Copy link, Report and other actions that need the message on Telegram's servers, which only failed. Copy, Delete, Save, Share and Translate stay. Nekogram's and Nagram's own server actions (their Forward menus, Repeat, Copy link in private chats and the like) go too, and so does the reaction bar, since a reaction is sent to the server as well.
+- **Supported apps list stays current.** Opening it fetches the newest list when yours is over an hour old, and the clients are now checked twice a week (Monday and Thursday) and after every release, so a client update that works shows its new version within days. Every release's notes now end with the newest supported version of each client, kept up to date on their own.
+- **View-once voice and round videos:** with Prevent media on, the player's "Delete and Close" button now says "Close", since the message is kept.
+- **The once-a-day anonymous count** now also says whether Premium is on (yes or no) and which Premium features could not start in your Telegram app, so a client update that breaks one gets fixed fast.
+- **Hide seen in channels, groups' comments and secret chats:** a stopped read receipt there is no longer answered with a made-up reply of the wrong kind, which some clients could trip over. It is simply not sent, like a hidden typing status.
+
 ## 1.5.93 (21 November 2026) — Telegram 13.3, phone number protection and glass message bubbles
 
 **New**
