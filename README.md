@@ -71,6 +71,66 @@
 
 <br>
 
+## 💎 Premium
+
+Re: TeleVIP stays free 🎉 Premium is an **optional** subscription that adds a few extras on top. Everything that's free today stays free.
+
+<table>
+<tr><th>💎 Premium</th><th>🆓 Free for everyone</th></tr>
+<tr><td>
+
+- 🗄️ **Storage limit** for kept deleted messages
+- 📅 **Account creation date** on profiles (approximate)
+- 🌐 **Proxy button** next to Downloads
+- 🚫 **No "pull up to the next channel"**
+- 📰 **Live ad & scam list**, updated every day
+- ☁️ **Encrypted cloud backup** of deleted messages and edit history
+
+</td><td>
+
+- 🧹 **Hide ads by keywords and links** (your own list)
+- …and every other feature in this README ✨
+
+</td></tr>
+</table>
+
+### 💵 Price
+
+| Plan | Price |
+|---|---|
+| 📆 Monthly | **$1.99** / month |
+| 🗓️ Yearly | **$19.99** / year (about 2 months free) |
+
+Prices are in US dollars; your country's sales tax or VAT may be added at checkout.
+
+### 🛒 How it works
+
+1. Open **Re: TeleVIP → Premium** and tap **Subscribe**.
+2. Pay on the secure checkout page 💳.
+3. Premium turns on **by itself** on that phone. You also get an **activation code**: keep it safe 🔑.
+
+- 📱 **One subscription = one phone.**
+- 🔄 **New phone?** Tap **Remove from this phone** on the old one, then enter your code on the new one. You can change phones **twice in 30 days**; need more? Message us on [Telegram](https://t.me/Revived_TeleVIP) 💬
+- 📶 **Offline?** Premium keeps working for up to 3 days without internet and renews quietly in the background.
+- ❌ **Cancel any time** with **Manage** in the Premium screen. Premium stays on until the end of the time you paid for.
+- 💸 **Refunds:** full refund within **14 days** of buying or of a renewal, no questions asked.
+
+### 📜 Usage policy
+
+- 🙋 Your code is **for you only**. Don't share, resell or publish it: codes used on too many phones get blocked.
+- ✅ Premium works only in the **official Re: TeleVIP** from our [releases](https://github.com/Dream1Works/Re-TeleVIP/releases), the Xposed module repo and our [Telegram channel](https://t.me/Revived_TeleVIP). Modified or re-signed copies can't use Premium.
+- 🤝 Be fair: no tricks to get Premium without paying, and no reselling. We may end a subscription that breaks these rules.
+
+### 🔐 Privacy
+
+- 🧾 Payments are handled by **[Paddle](https://www.paddle.com)**, our Merchant of Record. We never see your card.
+- 📨 For Premium the app sends only a **random phone ID**, your Premium pass and which official build it is. **Never** your Telegram account, phone number, contacts or messages.
+- 🔒 Cloud backups are **encrypted on your phone** with your activation code, so nobody else (not even us) can read them. They're deleted 30 days after a subscription ends.
+
+📄 Full details: [Terms](https://re-televip.scholar30.workers.dev/premium/terms) · [Privacy](https://re-televip.scholar30.workers.dev/premium/privacy) · [Refunds](https://re-televip.scholar30.workers.dev/premium/refunds)
+
+<br>
+
 ## 🚀 Getting started
 
 <table>
@@ -151,6 +211,8 @@ A release that breaks something opens an issue.
 </table>
 
 <sub>Telegram: its newest build. The others: their last five releases.</sub>
+
+<sub>The newest version of each client that passed: [COMPATIBILITY.md](https://github.com/Dream1Works/Re-TeleVIP/blob/main/COMPATIBILITY.md), also at the end of every release's notes. Both update themselves after every release, every Monday and every Thursday.</sub>
 
 <sub>App icons belong to their respective projects and are shown only to identify them.</sub>
 
@@ -238,17 +300,18 @@ Details are in the [changelog](https://github.com/Dream1Works/Re-TeleVIP/blob/ma
 
 ## 🔒 What it sends
 
-Re: TeleVIP talks to the internet for three things only:
+Re: TeleVIP talks to the internet for these things only:
 
 - **Update check.** Once a day it asks GitHub for the latest release (or reads the changelog through jsDelivr where GitHub is blocked). **Download** fetches the APK from GitHub, or from jsDelivr when GitHub doesn't answer, or opens the release's post in our Telegram channel. You can turn the daily check off under **Updates**.
 - **Client compatibility list.** Once a week it downloads [compat.json](https://github.com/Dream1Works/Re-TeleVIP/blob/main/compat.json) from GitHub (or jsDelivr where GitHub is blocked): which client versions the weekly check found working. It sends nothing about you.
+- **Premium (only if you subscribe).** Your Premium pass, a random phone ID and which official build is asking go to our server to turn Premium on and renew it, and for the Premium features that need the server. See [🔐 Privacy](#-privacy).
 - **Active users count.** Once a day it sends one anonymous message so we know how many people use Re: TeleVIP. It holds a random ID made on your phone, the module version and the name of your Telegram app. It never sends your Telegram account, phone number, contacts or messages, and your IP address is not stored.
 
 <br>
 
 ## 💛 Support
 
-Re: TeleVIP is free, and coded in squeezed-in time ☕<br>
+Re: TeleVIP is free (with optional [💎 Premium](#-premium)), and coded in squeezed-in time ☕<br>
 Your support on Patreon makes up for it!
 
 [![Support on Patreon](https://img.shields.io/badge/Support%20on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/Dossary)
@@ -259,6 +322,7 @@ Your support on Patreon makes up for it!
 ([mustafa1dev/TeleVip-LSPosed](https://github.com/mustafa1dev/TeleVip-LSPosed)), which Re: TeleVIP continues.<br>
 Partly based on [Re-Telegram](https://github.com/Sakion-Team/Re-Telegram).<br>
 Some feature ideas came from [Gramsieve](https://github.com/Xposed-Modules-Repo/com.tianqianguai.gramsieve) (Idea Inspiration).<br>
+The kept deleted messages menu, the Hide seen read fix and My colours and emoji were inspired by ideas from [Telegami](https://github.com/aoya111/Telegami) by [aoya111](https://github.com/aoya111) (Idea Inspiration).<br>
 Download Speed Boost follows the approach of [TeleSpeed](https://github.com/Xposed-Modules-Repo/io.github.tehcneko.telespeed) by [tehcneko](https://github.com/tehcneko).<br>
 The settings' glass lens is adapted from [AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass) by [Kyant](https://github.com/Kyant0) (Apache License 2.0).<br>
 The Telegram glass sliders and sharp wallpaper follow ideas from [TG-Liquid-Glass](https://github.com/YuanhaoBei/TG-Liquid-Glass) by [YuanhaoBei](https://github.com/YuanhaoBei) (Apache License 2.0).
