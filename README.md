@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/logo.svg" width="128" alt="Re: TeleVIP logo">
+<a href="https://re-televip.cc"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/logo.svg" width="128" alt="Re: TeleVIP logo"></a>
 
 # Re: TeleVIP
 
@@ -8,6 +8,8 @@
 
 [![Release](https://img.shields.io/github/v/release/Dream1Works/Re-TeleVIP?label=release&color=FFD500)](https://github.com/Dream1Works/Re-TeleVIP/releases/latest)
 [![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F2B-4G10%2FRe-TeleVIP%2Fbadges%2Fdownloads.json)](https://github.com/Dream1Works/Re-TeleVIP/releases)
+[![Users](https://img.shields.io/endpoint?url=https%3A%2F%2Fre-televip.cc%2Fbadge%2Fusers)](https://re-televip.cc)
+[![Website](https://img.shields.io/badge/website-re--televip.cc-8B5CF6)](https://re-televip.cc)
 [![Xposed API](https://img.shields.io/badge/libxposed-API%20102-4A4D54)](#-getting-started)
 [![License](https://img.shields.io/badge/license-All%20rights%20reserved-F99B1C)](https://github.com/Dream1Works/Re-TeleVIP/blob/main/LICENSE)
 [![Patreon](https://img.shields.io/badge/Patreon-support-FF424D?logo=patreon&logoColor=white)](https://www.patreon.com/Dossary)
@@ -15,8 +17,15 @@
 <br>
 
 [![Download the latest APK](https://img.shields.io/badge/Download-latest%20APK-2AABEE?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Dream1Works/Re-TeleVIP/releases/latest)
+[![Visit the website](https://img.shields.io/badge/Website-re--televip.cc-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://re-televip.cc)
 
 [Changelog](https://github.com/Dream1Works/Re-TeleVIP/blob/main/CHANGELOG.md) · [Telegram channel](https://t.me/Revived_TeleVIP) · [Report a problem](https://github.com/Dream1Works/Re-TeleVIP/issues)
+
+<br>
+
+<a href="https://re-televip.cc"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/website.jpg" width="820" alt="The Re: TeleVIP website, re-televip.cc"></a>
+
+<sub>👆 <b><a href="https://re-televip.cc">re-televip.cc</a></b>: features, Premium, prices and install guide, in English, 中文 and العربية.</sub>
 
 </div>
 
@@ -39,13 +48,13 @@
 </tr>
 <tr>
   <td align="center">Hide story views</td>
-  <td align="center">Save secret media, view-once voice & video</td>
+  <td align="center">Save self-destructing media ⭐</td>
   <td align="center">Save edit history</td>
 </tr>
 <tr>
-  <td align="center">Hide phone number</td>
+  <td align="center">Phone number protection</td>
   <td align="center">Save voice messages</td>
-  <td align="center">Remove saving limits</td>
+  <td align="center">Unlock saving in restricted chats ⭐</td>
 </tr>
 <tr>
   <td align="center">Block ads</td>
@@ -53,81 +62,53 @@
   <td align="center">Hide pinned messages</td>
 </tr>
 <tr>
-  <td align="center">Show user IDs</td>
-  <td align="center">Local Premium</td>
+  <td align="center">Show user and message IDs</td>
+  <td align="center">Liquid glass look</td>
   <td align="center">Hijri & Persian dates</td>
 </tr>
 <tr>
   <td align="center">Show read time</td>
   <td align="center">Disable stories</td>
-  <td align="center">Show message IDs</td>
+  <td align="center">Message details ⭐</td>
 </tr>
 </table>
 
-<sub>…and more in <b>Re: TeleVIP Settings 🛸</b>, at the top of the client's own <b>Settings</b>: sorted into four tabs (Privacy, Chats, Appearance, Tools) with a search, in a liquid glass or Material You look.</sub>
-<br><sub>In English, Español, Français, Deutsch, Italiano, Русский, Українська, Português (Brasil), العربية, فارسی, اردو, Türkçe, 简体中文, 日本語, 한국어, हिन्दी, বাংলা, தமிழ், ไทย, Tiếng Việt, Bahasa Melayu and Bahasa Indonesia: it follows the client's language, or pick one under <b>Language</b>.</sub>
-<br><sub>Tells you when a new version is out. Once a day it asks GitHub for the latest release; nothing about you or your phone is sent. Turn it off with <b>Tell me about new versions</b>.</sub>
-<br><sub>When you tap your client's own <b>Update</b>, it tells you whether that version was checked with your Re: TeleVIP: ✅ tested, 💔 broken or ⚠️ not checked yet. <b>Suspend client updates</b> holds the update until it's tested.</sub>
+<sub>⭐ = Premium. Everything else is free. All settings sit in <b>Re: TeleVIP Settings 🛸</b> at the top of the client's own <b>Settings</b>, in 22 languages.</sub>
 
 <br>
 
 ## 💎 Premium
 
-Re: TeleVIP stays free 🎉 Premium is an **optional** subscription that adds a few extras on top. Everything that's free today stays free.
+An **optional** subscription for extras. Everything free stays free.
 
 <table>
-<tr><th>💎 Premium</th><th>🆓 Free for everyone</th></tr>
+<tr><th>💎 Premium</th><th>💵 Price</th></tr>
 <tr><td>
 
-- 🗄️ **Storage limit** for kept deleted messages
-- 📅 **Account creation date** on profiles (approximate)
-- 🌐 **Proxy button** next to Downloads
-- 🚫 **No "pull up to the next channel"**
-- 📰 **Live ad & scam list**, updated every day
-- ☁️ **Encrypted cloud backup** of deleted messages and edit history
+- ☁️ Encrypted cloud backup of deleted messages and edit history
+- 📰 Live ad & scam list, plus your own ad keywords
+- 🗂️ Unlimited storage for kept deleted messages (free: 50 MB)
+- 🙈 Hide my number and exposure warnings
+- 🔥 Save self-destructing media and from restricted chats
+- ⭐ Local Telegram Premium, 🎨 my colours and emoji
+- 🔎 Message details, 📅 creation date on profiles
+- 💾 Settings export, 📏 album file sizes, 🌐 proxy button
 
 </td><td>
 
-- 🧹 **Hide ads by keywords and links** (your own list)
-- …and every other feature in this README ✨
+📆 **$1.99** / month<br>
+🗓️ **$19.99** / year<br>
+🧾 **$19.99** one year, paid once
+
+<sub>Card, PayPal, Apple Pay, Google Pay<br>and WeChat Pay, via Paddle.</sub>
 
 </td></tr>
 </table>
 
-### 💵 Price
+Buy in **Re: TeleVIP → Premium** or on **[re-televip.cc](https://re-televip.cc/#pricing)**. One plan = one phone; move it any time with your code.<br>
+Cancel any time · full refund within 14 days · works only in the official builds from our releases.
 
-| Plan | Price |
-|---|---|
-| 📆 Monthly | **$1.99** / month |
-| 🗓️ Yearly | **$19.99** / year (about 2 months free) |
-
-Prices are in US dollars; your country's sales tax or VAT may be added at checkout.
-
-### 🛒 How it works
-
-1. Open **Re: TeleVIP → Premium** and tap **Subscribe**.
-2. Pay on the secure checkout page 💳.
-3. Premium turns on **by itself** on that phone. You also get an **activation code**: keep it safe 🔑.
-
-- 📱 **One subscription = one phone.**
-- 🔄 **New phone?** Tap **Remove from this phone** on the old one, then enter your code on the new one. You can change phones **twice in 30 days**; need more? Message us on [Telegram](https://t.me/Revived_TeleVIP) 💬
-- 📶 **Offline?** Premium keeps working for up to 3 days without internet and renews quietly in the background.
-- ❌ **Cancel any time** with **Manage** in the Premium screen. Premium stays on until the end of the time you paid for.
-- 💸 **Refunds:** full refund within **14 days** of buying or of a renewal, no questions asked.
-
-### 📜 Usage policy
-
-- 🙋 Your code is **for you only**. Don't share, resell or publish it: codes used on too many phones get blocked.
-- ✅ Premium works only in the **official Re: TeleVIP** from our [releases](https://github.com/Dream1Works/Re-TeleVIP/releases), the Xposed module repo and our [Telegram channel](https://t.me/Revived_TeleVIP). Modified or re-signed copies can't use Premium.
-- 🤝 Be fair: no tricks to get Premium without paying, and no reselling. We may end a subscription that breaks these rules.
-
-### 🔐 Privacy
-
-- 🧾 Payments are handled by **[Paddle](https://www.paddle.com)**, our Merchant of Record. We never see your card.
-- 📨 For Premium the app sends only a **random phone ID**, your Premium pass and which official build it is. **Never** your Telegram account, phone number, contacts or messages.
-- 🔒 Cloud backups are **encrypted on your phone** with your activation code, so nobody else (not even us) can read them. They're deleted 30 days after a subscription ends.
-
-📄 Full details: [Terms](https://re-televip.scholar30.workers.dev/premium/terms) · [Privacy](https://re-televip.scholar30.workers.dev/premium/privacy) · [Refunds](https://re-televip.scholar30.workers.dev/premium/refunds)
+📄 [Terms](https://re-televip.cc/terms) · [Privacy](https://re-televip.cc/privacy) · [Refunds](https://re-televip.cc/refunds)
 
 <br>
 
@@ -182,119 +163,35 @@ Prices are in US dollars; your country's sales tax or VAT may be added at checko
 
 <br>
 
-## 📱 Supported clients
-
-### ✅ Checked every week
-
-Every Monday, each feature's hook points are checked against the latest releases of these clients.<br>
-A release that breaks something opens an issue.
-
-<table>
-<tr>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/telegram.png" width="56" height="56" alt=""><br><b>Telegram</b><br><sub>telegram.org</sub></td>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/nekogram.png" width="56" height="56" alt=""><br><b>Nekogram</b><br><sub>GitHub</sub></td>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/cherrygram.png" width="56" height="56" alt=""><br><b>Cherrygram</b><br><sub>GitHub</sub></td>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/nagram.png" width="56" height="56" alt=""><br><b>Nagram</b><br><sub>GitHub</sub></td>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/nagramx.png" width="56" height="56" alt=""><br><b>Nagram X</b><br><sub>GitHub · full + base</sub></td>
-</tr>
-<tr>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/forkgram.png" width="56" height="56" alt=""><br><b>Forkgram</b><br><sub>F-Droid</sub></td>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/forkgram-classic.png" width="56" height="56" alt=""><br><b>Forkgram Classic</b><br><sub>F-Droid</sub></td>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/mercurygram.png" width="56" height="56" alt=""><br><b>Mercurygram</b><br><sub>F-Droid</sub></td>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/momogram.png" width="56" height="56" alt=""><br><b>Momogram</b><br><sub>GitHub</sub></td>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/plus.png" width="56" height="56" alt=""><br><b>Plus Messenger</b><br><sub>APKPure</sub></td>
-</tr>
-<tr>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/graph.png" width="56" height="56" alt=""><br><b>Graph Messenger</b><br><sub>APKPure</sub></td>
-  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/entinygram.png" width="56" height="56" alt=""><br><b>EntinyGram</b><br><sub>GitHub</sub></td>
-</tr>
-</table>
-
-<sub>Telegram: its newest build. The others: their last five releases.</sub>
-
-<sub>The newest version of each client that passed: [COMPATIBILITY.md](https://github.com/Dream1Works/Re-TeleVIP/blob/main/COMPATIBILITY.md), also at the end of every release's notes. Both update themselves after every release, every Monday and every Thursday.</sub>
-
-<sub>App icons belong to their respective projects and are shown only to identify them.</sub>
-
 <br>
 
-## 🧪 Tested on
+## 📱 Supported apps
 
-Every release is tried on Android emulators with each root manager and Vector, in every client above.<br>
-Android 13 to 16 were checked for 1.2. 1.4, 1.5 and 1.5.1 were tried on Android 14 with Telegram 13.1 and Nekogram 13.0.3 using two accounts:
-
-<table>
-<tr>
-  <th width="120">Android</th>
-  <th width="420">Works with</th>
-  <th width="260">Notes</th>
-</tr>
-<tr>
-  <td align="center"><b>17</b></td>
-  <td align="center">
-    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/magisk.png" width="36" height="36" alt="Magisk" title="Magisk">&nbsp;
-    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/kernelsu.png" width="36" height="36" alt="KernelSU" title="KernelSU">&nbsp;
-    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/kernelsu-next.png" width="36" height="36" alt="KernelSU Next" title="KernelSU Next">&nbsp;
-    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/bakasu.png" width="36" height="36" alt="BakaSU" title="BakaSU">&nbsp;
-    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/apatch.png" width="36" height="36" alt="APatch" title="APatch">
-  </td>
-  <td><sub>Works with Magisk 31.0+ and a current Vector build. 1.3 was tried here with Telegram 13.1 and Cherrygram; the other root managers are expected to work as on Android 16.</sub></td>
-</tr>
-<tr>
-  <td align="center"><b>16</b></td>
-  <td align="center">
-    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/magisk.png" width="36" height="36" alt="Magisk" title="Magisk">&nbsp;
-    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/kernelsu.png" width="36" height="36" alt="KernelSU" title="KernelSU">&nbsp;
-    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/kernelsu-next.png" width="36" height="36" alt="KernelSU Next" title="KernelSU Next">&nbsp;
-    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/bakasu.png" width="36" height="36" alt="BakaSU" title="BakaSU">&nbsp;
-    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/apatch.png" width="36" height="36" alt="APatch" title="APatch">
-  </td>
-  <td><sub>Magisk, KernelSU, KernelSU Next, BakaSU and APatch</sub></td>
-</tr>
-<tr>
-  <td align="center"><b>15</b></td>
-  <td align="center">
-    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/magisk.png" width="36" height="36" alt="Magisk" title="Magisk">&nbsp;
-    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/apatch.png" width="36" height="36" alt="APatch" title="APatch">
-  </td>
-  <td><sub>Magisk and APatch. KernelSU wasn't checked: it can't run on this emulator's kernel*</sub></td>
-</tr>
-<tr>
-  <td align="center"><b>14</b></td>
-  <td align="center">
-    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/magisk.png" width="36" height="36" alt="Magisk" title="Magisk">&nbsp;
-    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/apatch.png" width="36" height="36" alt="APatch" title="APatch">
-  </td>
-  <td><sub>Magisk and APatch. KernelSU wasn't checked: it can't run on this emulator's kernel*</sub></td>
-</tr>
-<tr>
-  <td align="center"><b>13</b></td>
-  <td align="center">
-    <img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/root/magisk.png" width="36" height="36" alt="Magisk" title="Magisk">
-  </td>
-  <td><sub>Magisk</sub></td>
-</tr>
-</table>
-
-<sub>* The Android 14 and 15 emulators ship kernels that KernelSU, KernelSU Next and BakaSU can't load into. That is a limit of the emulator, not of these root managers or of Re: TeleVIP: on a phone whose kernel they support, they work as on Android 16.<br>
-Logos belong to their respective projects and are shown only to identify them.</sub>
-
-<br>
-
-## ⚙️ How it keeps up
-
-Telegram and its forks rename their code on every release, some almost all of it.<br>
-Re: TeleVIP doesn't rely on a name table for one version. It works it out on your device.
+The same list as in the app, live: each badge shows the newest version that passed our checks.<br>
+Every app is checked against its new releases twice a week, and after every Re: TeleVIP release.
 
 <table>
 <tr>
-  <td align="center" width="260">📦<br><b>Reads the client's APK</b><br><sub>once per client update</sub></td>
-  <td align="center" width="260">🔍<br><b>Finds each hook by behaviour</b><br><sub>what the code does, not its name</sub></td>
-  <td align="center" width="260">🧭<br><b>Leaves out what it can't pin down</b><br><sub>rather than guessing</sub></td>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/telegram.png" width="56" height="56" alt=""><br><b>Telegram</b><br><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fre-televip.cc%2Fbadge%2Fapp%2Forg.telegram.messenger" alt="newest version checked"></td>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/nekogram.png" width="56" height="56" alt=""><br><b>Nekogram</b><br><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fre-televip.cc%2Fbadge%2Fapp%2Ftw.nekomimi.nekogram" alt="newest version checked"></td>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/cherrygram.png" width="56" height="56" alt=""><br><b>Cherrygram</b><br><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fre-televip.cc%2Fbadge%2Fapp%2Fuz.unnarsx.cherrygram" alt="newest version checked"></td>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/nagram.png" width="56" height="56" alt=""><br><b>Nagram</b><br><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fre-televip.cc%2Fbadge%2Fapp%2Fxyz.nextalone.nagram" alt="newest version checked"></td>
+</tr>
+<tr>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/nagramx.png" width="56" height="56" alt=""><br><b>Nagram X</b><br><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fre-televip.cc%2Fbadge%2Fapp%2Fnu.gpu.nagram" alt="newest version checked"></td>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/forkgram.png" width="56" height="56" alt=""><br><b>Forkgram</b><br><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fre-televip.cc%2Fbadge%2Fapp%2Forg.forkgram.messenger" alt="newest version checked"></td>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/forkgram-classic.png" width="56" height="56" alt=""><br><b>Forkgram Classic</b><br><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fre-televip.cc%2Fbadge%2Fapp%2Forg.forkgram.classic" alt="newest version checked"></td>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/mercurygram.png" width="56" height="56" alt=""><br><b>Mercurygram</b><br><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fre-televip.cc%2Fbadge%2Fapp%2Fit.belloworld.mercurygram" alt="newest version checked"></td>
+</tr>
+<tr>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/momogram.png" width="56" height="56" alt=""><br><b>Momogram</b><br><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fre-televip.cc%2Fbadge%2Fapp%2Fmomo.gram" alt="newest version checked"></td>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/plus.png" width="56" height="56" alt=""><br><b>Plus Messenger</b><br><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fre-televip.cc%2Fbadge%2Fapp%2Forg.telegram.plus" alt="newest version checked"></td>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/graph.png" width="56" height="56" alt=""><br><b>Graph Messenger</b><br><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fre-televip.cc%2Fbadge%2Fapp%2Fir.ilmili.telegraph" alt="newest version checked"></td>
+  <td align="center" valign="top" width="150"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/clients/entinygram.png" width="56" height="56" alt=""><br><b>EntinyGram</b><br><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fre-televip.cc%2Fbadge%2Fapp%2Fua.entaytion.entinygram" alt="newest version checked"></td>
 </tr>
 </table>
 
-Details are in the [changelog](https://github.com/Dream1Works/Re-TeleVIP/blob/main/CHANGELOG.md).
+<sub>The full list: [COMPATIBILITY.md](https://github.com/Dream1Works/Re-TeleVIP/blob/main/COMPATIBILITY.md), also at the end of every release's notes. App icons belong to their respective projects and are shown only to identify them.</sub>
 
 <br>
 
@@ -304,8 +201,10 @@ Re: TeleVIP talks to the internet for these things only:
 
 - **Update check.** Once a day it asks GitHub for the latest release (or reads the changelog through jsDelivr where GitHub is blocked). **Download** fetches the APK from GitHub, or from jsDelivr when GitHub doesn't answer, or opens the release's post in our Telegram channel. You can turn the daily check off under **Updates**.
 - **Client compatibility list.** Once a week it downloads [compat.json](https://github.com/Dream1Works/Re-TeleVIP/blob/main/compat.json) from GitHub (or jsDelivr where GitHub is blocked): which client versions the weekly check found working. It sends nothing about you.
-- **Premium (only if you subscribe).** Your Premium pass, a random phone ID and which official build is asking go to our server to turn Premium on and renew it, and for the Premium features that need the server. See [🔐 Privacy](#-privacy).
+- **Premium (only if you subscribe).** Your Premium pass, a random phone ID and which official build is asking go to our server to turn Premium on and renew it, and for the Premium features that need the server. See the [privacy policy](https://re-televip.cc/privacy).
 - **Active users count.** Once a day it sends one anonymous message so we know how many people use Re: TeleVIP. It holds a random ID made on your phone, the module version and the name of your Telegram app. It never sends your Telegram account, phone number, contacts or messages, and your IP address is not stored.
+
+<br>
 
 <br>
 
