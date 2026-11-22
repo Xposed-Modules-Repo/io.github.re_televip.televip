@@ -1,5 +1,14 @@
 # Changelog
 
+## Unreleased
+
+**Fixed**
+
+- **Premium works in mainland China again.** Activating a code, buying Premium and keeping it switched on failed there, because the server's old address is blocked. Re: TeleVIP now uses a new address that works in China, falls back to the old one elsewhere, and waits longer and tries again by itself when a connection is slow to start.
+- **Uses Telegram's proxy.** If you reach Telegram through a SOCKS5 proxy set in Telegram (Settings → Data and Storage → Proxy), Premium now goes through the same proxy, so it works without switching your VPN to global mode.
+- **Momogram 13.2.2:** the photo viewer's gallery button is found again.
+- **Ad lists no longer hide messages from look-alike usernames.** An entry like @name or t.me/name now hides only that exact channel, bot or user, not longer names that start the same way (so t.me/kuai no longer hides t.me/kuaishou).
+
 ## 1.6 (22 November 2026) — Re: TeleVIP Premium, brand-new settings and a menu that works on deleted messages
 
 **New (free)**
