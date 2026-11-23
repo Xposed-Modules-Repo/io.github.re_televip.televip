@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.6.12 (24 November 2026) — One Premium code for your whole phone
+
+**Fixed**
+
+- **One Premium code covers your whole phone.** Every Telegram app on your phone (the official app or a fork, under Vector or LSPatch) and every account in them can use the same code: just enter it in each app. Before, a second Telegram app on the same phone counted as another phone and was refused. Updating Re: TeleVIP or Telegram keeps Premium on, as before, and you can move Premium to a new phone once every 30 days.
+
 ## 1.6.11 (23 November 2026) — Pay with USDT, and buying from China fixed
 
 **New**
