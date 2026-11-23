@@ -105,7 +105,7 @@ An **optional** subscription for extras. Everything free stays free.
 </td></tr>
 </table>
 
-Buy in **Re: TeleVIP → Premium** or on **[re-televip.cc](https://re-televip.cc/#pricing)**. One plan = one phone; move it any time with your code.<br>
+Buy in **Re: TeleVIP → Premium** or on **[re-televip.cc](https://re-televip.cc/#pricing)**. One plan = one phone, with every Telegram app and account on it; move it any time with your code.<br>
 Cancel any time · full refund within 14 days · works only in the official builds from our releases.
 
 📄 [Terms](https://re-televip.cc/terms) · [Privacy](https://re-televip.cc/privacy) · [Refunds](https://re-televip.cc/refunds)
