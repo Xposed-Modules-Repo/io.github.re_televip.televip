@@ -1,6 +1,20 @@
 # Changelog
 
-## Unreleased
+## 1.6.11 (23 November 2026) — Pay with USDT, and buying from China fixed
+
+**New**
+
+- **Pay for Premium with USDT, on any plan.** On the Premium page, tap "Pay with USDT" to pay for a month ($1.99) or a year ($19.99) in USDT on TRON (TRC20), from any wallet or exchange (Binance, OKX, imToken, TronLink, Trust Wallet and more). The page shows the exact amount to send; once it arrives, Premium turns on by itself, usually within a minute or two, with no screenshots or waiting for support. Works in mainland China too.
+
+**Fixed**
+
+- **The Premium page opens in your browser.** Subscribe and Manage subscription now open in your phone's own browser instead of the Telegram app's in-app window, where one swipe or the Back button could close a payment halfway. If the page is opened in an in-app browser anyway (WeChat, QQ and others), it offers to move to your browser first.
+- **WeChat Pay on a computer works again.** In China the card checkout never opened on a computer, so WeChat Pay couldn't be chosen. Pick China as the country in the checkout and WeChat Pay shows.
+- **Mainland China:** on re-televip.cc, paying with USDT comes first (the card checkout's address is blocked there), support links open the Telegram app, and Download comes from a mirror that works in China.
+- **Checkout tidy-up:** the checkout asks for your email first, the USDT order code has its own Copy button, and copying works in in-app browsers.
+- **Update pop-up:** the release notes no longer show a stray line of page code.
+
+## 1.6.1 (22 November 2026) — Premium in mainland China, Telegram's proxy
 
 **Fixed**
 
