@@ -9,15 +9,11 @@
 [![Release](https://img.shields.io/github/v/release/Dream1Works/Re-TeleVIP?label=release&color=FFD500)](https://github.com/Dream1Works/Re-TeleVIP/releases/latest)
 [![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F2B-4G10%2FRe-TeleVIP%2Fbadges%2Fdownloads.json)](https://github.com/Dream1Works/Re-TeleVIP/releases)
 [![Users](https://img.shields.io/endpoint?url=https%3A%2F%2Fre-televip.cc%2Fbadge%2Fusers)](https://re-televip.cc)
-[![Website](https://img.shields.io/badge/website-re--televip.cc-8B5CF6)](https://re-televip.cc)
-[![Xposed API](https://img.shields.io/badge/libxposed-API%20102-4A4D54)](#-getting-started)
 [![License](https://img.shields.io/badge/license-All%20rights%20reserved-F99B1C)](https://github.com/Dream1Works/Re-TeleVIP/blob/main/LICENSE)
-[![Patreon](https://img.shields.io/badge/Patreon-support-FF424D?logo=patreon&logoColor=white)](https://www.patreon.com/Dossary)
 
 <br>
 
 [![Download the latest APK](https://img.shields.io/badge/Download-latest%20APK-2AABEE?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Dream1Works/Re-TeleVIP/releases/latest)
-[![Visit the website](https://img.shields.io/badge/Website-re--televip.cc-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://re-televip.cc)
 
 [Changelog](https://github.com/Dream1Works/Re-TeleVIP/blob/main/CHANGELOG.md) · [Telegram channel](https://t.me/Revived_TeleVIP) · [Report a problem](https://github.com/Dream1Works/Re-TeleVIP/issues)
 
@@ -25,7 +21,7 @@
 
 <a href="https://re-televip.cc"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/website.jpg" width="820" alt="The Re: TeleVIP website, re-televip.cc"></a>
 
-<sub>👆 <b><a href="https://re-televip.cc">re-televip.cc</a></b>: features, Premium, prices and install guide, in English, 中文 and العربية.</sub>
+<sub>Features, Premium and install guide in English, 中文 and العربية at <b><a href="https://re-televip.cc">re-televip.cc</a></b>.</sub>
 
 </div>
 
@@ -54,7 +50,7 @@
 <tr>
   <td align="center">Phone number protection</td>
   <td align="center">Save voice messages</td>
-  <td align="center">Unlock saving in restricted chats ⭐</td>
+  <td align="center">Unlock saving in restricted chats</td>
 </tr>
 <tr>
   <td align="center">Block ads</td>
@@ -73,41 +69,19 @@
 </tr>
 </table>
 
-<sub>⭐ = Premium. Everything else is free. All settings sit in <b>Re: TeleVIP Settings 🛸</b> at the top of the client's own <b>Settings</b>, in 22 languages.</sub>
+<sub>⭐ = Premium. Everything else is free. Unlock saving in restricted chats and local Telegram Premium are free from 1.7. All settings sit in <b>Re: TeleVIP Settings 🛸</b> at the top of the client's own <b>Settings</b>, in 22 languages.</sub>
 
 <br>
 
 ## 💎 Premium
 
-An **optional** subscription for extras. Everything free stays free.
+**Optional.** Everything free stays free.
 
-<table>
-<tr><th>💎 Premium</th><th>💵 Price</th></tr>
-<tr><td>
+| 💎 Adds | 💵 Price |
+|---|---|
+| Encrypted cloud backup of deleted messages · live ad & scam list · unlimited kept deleted messages (free: 50 MB) · hide my number · save self-destructing media · message details · settings export, and more | **$1.99**/month · **$5.49**/3 months · **$19.99**/year · **$19.99** one year, paid once<br><sub>Card, PayPal, Apple/Google Pay, WeChat Pay or USDT (TRC20 or TON)</sub> |
 
-- ☁️ Encrypted cloud backup of deleted messages and edit history
-- 📰 Live ad & scam list, plus your own ad keywords
-- 🗂️ Unlimited storage for kept deleted messages (free: 50 MB)
-- 🙈 Hide my number and exposure warnings
-- 🔥 Save self-destructing media and from restricted chats
-- ⭐ Local Telegram Premium, 🎨 my colours and emoji
-- 🔎 Message details, 📅 creation date on profiles
-- 💾 Settings export, 📏 album file sizes, 🌐 proxy button
-
-</td><td>
-
-📆 **$1.99** / month<br>
-🗓️ **$19.99** / year<br>
-🧾 **$19.99** one year, paid once
-
-<sub>Card, PayPal, Apple Pay, Google Pay<br>and WeChat Pay via Paddle, or USDT (TRC20).</sub>
-
-</td></tr>
-</table>
-
-Buy in **Re: TeleVIP → Premium** or on **[re-televip.cc](https://re-televip.cc/#pricing)**. One plan = one phone, with every Telegram app and account on it; move it any time with your code.<br>
-Cancel any time · full refund within 14 days · works only in the official builds from our releases.
-
+Buy in **Re: TeleVIP → Premium** or on **[re-televip.cc](https://re-televip.cc/#pricing)**. One plan = one phone. Cancel any time, full refund within 14 days.<br>
 📄 [Terms](https://re-televip.cc/terms) · [Privacy](https://re-televip.cc/privacy) · [Refunds](https://re-televip.cc/refunds)
 
 <br>
@@ -124,7 +98,7 @@ Cancel any time · full refund within 14 days · works only in the official buil
 
 - **Vector 2.2+**<br><sub>Re: TeleVIP uses the new Xposed API (102). LSPosed 1.9.x and EdXposed only run older modules, and LSPosed doesn't start on Android 16.</sub>
 - A root manager with Zygisk<br><sub>Magisk has it built in. With KernelSU, KernelSU Next, BakaSU or APatch, add NeoZygisk or Zygisk Next.</sub>
-- No root? **[LSPatch 1.2](https://github.com/JingMatrix/LSPatch/releases/latest)** by JingMatrix<br><sub>Android 9 or newer. See <i>Without root</i> below.</sub>
+- No root? **[LSPatch 1.2](https://github.com/JingMatrix/LSPatch/releases/latest)** by JingMatrix<br><sub>Android 9 or newer, 16 KB-page phones included. See <i>Without root</i> below.</sub>
 - Android 8.1 or newer
 - On Android 17: Magisk 31.0+ and a Vector canary (3112 or newer)<br><sub>Magisk 30.7 and Vector 2.2 stable don't load modules on Android 17.</sub>
 
@@ -135,13 +109,23 @@ Cancel any time · full refund within 14 days · works only in the official buil
 2. In Vector: **Modules** → enable **Re: TeleVIP** → tick your Telegram clients.
 3. **Force stop** the client and open it again.
 
-<sub><b>Vector doesn't list Telegram from Google Play, or loads nothing into it?</b> Google Play can install it as a streamed ("incremental") install, which Vector does not load modules into. Use Telegram from <a href="https://telegram.org/android">telegram.org</a>, or install the same files again the normal way: copy the paths from <code>adb shell pm path org.telegram.messenger</code> to your computer with <code>adb pull</code>, then <code>adb install-multiple -r --no-incremental</code> them. Your chats and login stay. A later Play update can bring it back.</sub>
-
-<sub>Updating from 1.0.x? The package name changed in 1.1.0: install the new version, uninstall the old <i>TeleVip</i> (<code>com.my.televip</code>), and enable <i>Re: TeleVIP</i> in Vector.</sub>
-
   </td>
 </tr>
 </table>
+
+<details>
+<summary><b>Troubleshooting</b></summary>
+<br>
+
+<div align="left">
+
+- <b>Vector doesn't list Telegram from Google Play, or loads nothing into it?</b> Google Play can install it as a streamed ("incremental") install, which Vector does not load modules into. Use Telegram from <a href="https://telegram.org/android">telegram.org</a>, or install the same files again the normal way: copy the paths from <code>adb shell pm path org.telegram.messenger</code> to your computer with <code>adb pull</code>, then <code>adb install-multiple -r --no-incremental</code> them. Your chats and login stay. A later Play update can bring it back.
+
+- Updating from 1.0.x? The package name changed in 1.1.0: install the new version, uninstall the old <i>TeleVip</i> (<code>com.my.televip</code>), and enable <i>Re: TeleVIP</i> in Vector.
+
+</div>
+
+</details>
 
 <details>
 <summary><b>Without root (LSPatch)</b></summary>
@@ -155,13 +139,13 @@ Cancel any time · full refund within 14 days · works only in the official buil
    - **Integrated**: tick **Embed modules** → **Re: TeleVIP**. The patched app runs on its own, but every Re: TeleVIP update means patching again.
 3. Patch, then install the result. In Local mode, also tick Re: TeleVIP on the client's page in LSPatch.
 
+**Newer phones with 16 KB memory pages** (many phones on Android 15 and later, Pixel 11 and newer): LSPatch 1.2 places its own library in a way these phones refuse, so the patched client closes as soon as you open it. Open the **Re: TeleVIP** app (its own icon, or **Settings** next to Re: TeleVIP in LSPatch) and tap **Fix for this phone** next to your client, then **Update** when Android asks. The client updates in place: your chats, settings and sign-in stay. The button only shows where a fix is needed, and only for clients patched with LSPatch's default key; one patched with your own keystore needs patching again once LSPatch has the fix ([LSPatch #141](https://github.com/JingMatrix/LSPatch/pull/141)).
+
 <sub>The patched client is signed by LSPatch, so Android has to uninstall the original one first. That deletes what the client keeps on the phone, Re: TeleVIP's settings and secret chats included: you'll sign in again and your cloud chats come back. Updates from the Play Store or the client's own updater won't install over it; patch each new version instead.</sub>
 
 </div>
 
 </details>
-
-<br>
 
 <br>
 
@@ -197,41 +181,31 @@ Every app is checked against its new releases twice a week, and after every Re: 
 
 ## 🔒 What it sends
 
-Re: TeleVIP talks to the internet for these things only:
+Only this, and never your Telegram account, number, contacts or messages:
 
-- **Update check.** Once a day it asks GitHub for the latest release (or reads the changelog through jsDelivr where GitHub is blocked). **Download** fetches the APK from GitHub, or from jsDelivr when GitHub doesn't answer, or opens the release's post in our Telegram channel. You can turn the daily check off under **Updates**.
-- **Client compatibility list.** Once a week it downloads [compat.json](https://github.com/Dream1Works/Re-TeleVIP/blob/main/compat.json) from GitHub (or jsDelivr where GitHub is blocked): which client versions the weekly check found working. It sends nothing about you.
-- **Premium (only if you subscribe).** Your Premium pass, a random phone ID and which official build is asking go to our server to turn Premium on and renew it, and for the Premium features that need the server. See the [privacy policy](https://re-televip.cc/privacy).
-- **Active users count.** Once a day it sends one anonymous message so we know how many people use Re: TeleVIP. It holds a random ID made on your phone, the module version and the name of your Telegram app. It never sends your Telegram account, phone number, contacts or messages, and your IP address is not stored.
-
-<br>
+- **Update check**, once a day (GitHub or jsDelivr). You can turn it off under **Updates**.
+- **Supported-apps list**, once a week ([compat.json](https://github.com/Dream1Works/Re-TeleVIP/blob/main/compat.json)).
+- **Premium**, only if you subscribe: your pass, a random phone ID and the build asking. See the [privacy policy](https://re-televip.cc/privacy).
+- **Active users count**, once a day: a random ID, the module version and the Telegram app's name. IP addresses are not stored.
 
 <br>
 
 ## 💛 Support
 
-Re: TeleVIP is free (with optional [💎 Premium](#-premium)), and coded in squeezed-in time ☕<br>
-Your support on Patreon makes up for it!
-
-[![Support on Patreon](https://img.shields.io/badge/Support%20on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/Dossary)
+Coded in squeezed-in time ☕ Your support keeps it going: [![Patreon](https://img.shields.io/badge/Patreon-support-FF424D?logo=patreon&logoColor=white)](https://www.patreon.com/Dossary)
 
 ## 🙏 Credits
 
-**[Mustafa (@mustafa1dev)](https://github.com/mustafa1dev)** is the original author of TeleVip
-([mustafa1dev/TeleVip-LSPosed](https://github.com/mustafa1dev/TeleVip-LSPosed)), which Re: TeleVIP continues.<br>
-Partly based on [Re-Telegram](https://github.com/Sakion-Team/Re-Telegram).<br>
-Some feature ideas came from [Gramsieve](https://github.com/Xposed-Modules-Repo/com.tianqianguai.gramsieve) (Idea Inspiration).<br>
-The kept deleted messages menu, the Hide seen read fix and My colours and emoji were inspired by ideas from [Telegami](https://github.com/aoya111/Telegami) by [aoya111](https://github.com/aoya111) (Idea Inspiration).<br>
-Download Speed Boost follows the approach of [TeleSpeed](https://github.com/Xposed-Modules-Repo/io.github.tehcneko.telespeed) by [tehcneko](https://github.com/tehcneko).<br>
-The settings' glass lens is adapted from [AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass) by [Kyant](https://github.com/Kyant0) (Apache License 2.0).<br>
-The Telegram glass sliders and sharp wallpaper follow ideas from [TG-Liquid-Glass](https://github.com/YuanhaoBei/TG-Liquid-Glass) by [YuanhaoBei](https://github.com/YuanhaoBei) (Apache License 2.0).
+Re: TeleVIP started in September 2026 as a fork of [TeleVip-LSPosed](https://github.com/mustafa1dev/TeleVip-LSPosed) by **[Mustafa (@mustafa1dev)](https://github.com/mustafa1dev)**. Thank you, Mustafa.<br>
+**Since 1.5.4 the code is new:** it was fully rewritten and no longer contains TeleVip-LSPosed's code.<br>
+<sub>Ideas from [Re-Telegram](https://github.com/Sakion-Team/Re-Telegram), [Gramsieve](https://github.com/Xposed-Modules-Repo/com.tianqianguai.gramsieve), [Telegami](https://github.com/aoya111/Telegami), [TeleSpeed](https://github.com/Xposed-Modules-Repo/io.github.tehcneko.telespeed) and [TG-Liquid-Glass](https://github.com/YuanhaoBei/TG-Liquid-Glass). The settings' glass lens is adapted from [AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass) by Kyant (Apache 2.0).</sub>
 
 ## 📄 License
 
-© 2026 Faisal AlDossary. All rights reserved: see [LICENSE](https://github.com/Dream1Works/Re-TeleVIP/blob/main/LICENSE) and [NOTICE](https://github.com/Dream1Works/Re-TeleVIP/blob/main/NOTICE.md). From 1.5.4 the source code is not published, and copying, modifying or re-uploading the app needs permission. Versions up to 1.5.3 stay under GPL-3.0.<br>
-The name **Re: TeleVIP** and its logo belong to Faisal AlDossary. Nobody may use them for another app.<br>
-This project is for educational use.<br>
-Modified clients can put a Telegram account at risk, so use it at your own risk.
+© 2026 Faisal AlDossary. All rights reserved: see [LICENSE](https://github.com/Dream1Works/Re-TeleVIP/blob/main/LICENSE) and [NOTICE](https://github.com/Dream1Works/Re-TeleVIP/blob/main/NOTICE.md). Copying, modifying or re-uploading the app needs permission.<br>
+Versions up to 1.5.3 contained TeleVip-LSPosed's code and stay under GPL-3.0.<br>
+The name **Re: TeleVIP** and its logo belong to Faisal AlDossary.<br>
+Modified clients can put a Telegram account at risk: use at your own risk.
 
 <br>
 
