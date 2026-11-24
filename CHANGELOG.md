@@ -1,5 +1,59 @@
 # Changelog
 
+## 1.7 (24 November 2026) — Major release: Local Telegram Premium and saving in restricted chats go free, new Premium and Updates cards, a 3-month plan, USDT on TON
+
+**New**
+
+- **A new Premium card.** The Premium section at the top of Re: TeleVIP Settings is now its own card, with the Re: TeleVIP logo, your subscription's status, and one button to subscribe or manage. It works in the glass and Material You looks, light and dark, and in every language, Arabic right-to-left included.
+- **Updates get their own card, and you choose how often.** Settings → Tools → Updates: look for a new version every time the app starts, every hour, every 12 hours, once a day (as before), once a week, or only when you tap Check for updates. The card shows when it last looked. If you had turned "Tell me about new versions" off, it is set to "Only when I check".
+- **Ads card (Premium):** the live ad and scam list says how many entries it has and when it was last updated, and a new **Refresh the live list now** row fetches the newest list right away.
+- **Update notes in Chinese.** When your Telegram (or the language picked in Re: TeleVIP) is Chinese, the update pop-up shows what's new in Chinese. The release page on GitHub and the channel post show both languages.
+- **A 3-month Premium plan: $5.49 for 90 days.** Pick it on the Premium page next to the month and the year, by card or with USDT.
+- **Pay with USDT on TON too.** "Pay with USDT" now has a TRON / TON switch: send USDT on either network, from Trust Wallet, Tonkeeper, Telegram Wallet or any other wallet. Premium still turns on by itself within a minute or two.
+- **Hide emojis in menus.** A new switch in **Appearance → Settings look** shows Re: TeleVIP's settings and menus as plain text, without emojis, in every language. Free, and off until you turn it on.
+- **Local Telegram Premium and Unlock saving in restricted chats are free now.** You voted, and these two were the top picks: both work without Premium, for everyone. Turn them on in Re: TeleVIP's settings. Say where a copy came from stays with Premium.
+
+**Fixed**
+
+- **No root (LSPatch): Telegram that closed right away on newer phones.** On phones with 16 KB memory pages, a patched Telegram could close as soon as it opened. Tap the new Re: TeleVIP icon → **Fix for this phone**: it updates in place, and your chats and settings stay.
+- **Screen readers:** TalkBack reads the tabs at the top of Re: TeleVIP Settings and says which one is selected.
+- **Premium, smoother:** a wrong or refused activation code keeps the code box open with the reason, so you can fix it in place. "Check again" now says whether the payment arrived. A renewal bought while Premium is still on is picked up by itself. No extra "Copied" popup on Android 13 and later.
+- **Updates:** after you install a new version while Telegram is open, Re: TeleVIP now tells you the old version is still running and offers **Restart app** to load the new one. Before, it kept showing the old version, so the update looked like it had failed.
+- **Voice-to-text with Local Telegram Premium:** instead of "No words recognized", it now says that voice-to-text needs real Telegram Premium (Telegram's server only transcribes for real Premium).
+- **Side menu:** the "Re: TeleVIP Settings" row works again after you change Re: TeleVIP's language.
+- **Disable stories:** the stories row no longer comes back at the top of the chat list after Telegram is closed and reopened when you have a story of your own.
+- **Folder tags (Local Telegram Premium):** the folder tags switch and the coloured tags stay on after you reopen folder settings, on an account without Telegram Premium.
+- **Premium on one phone:** every Telegram app on the same phone now counts as that one phone. Before, some phones (such as recent Pixels) gave each Telegram app its own ID, so a second app was refused as a second phone. Apps already on your code move over by themselves.
+- **Glass with pattern wallpapers:** with **Sharp wallpaper** on, the glass now shows Telegram's pattern wallpapers, lines and all, also in dark mode. Before, it showed a flat grey there.
+- **Manage subscription (Premium):** on Premium from a gift code or paid with USDT, the button now goes straight to the payment options to renew, instead of showing "Couldn't reach the Premium server". Extra taps while it opens do nothing, and later taps open it at once.
+
+### 中文
+
+**新功能**
+
+- **全新的高级版卡片。** Re: TeleVIP 设置顶部的高级版区域现在是一张独立卡片，带有 Re: TeleVIP 标志、订阅状态，以及一个用于订阅或管理的按钮。支持玻璃和 Material You 外观、浅色和深色主题，以及所有语言（包括阿拉伯语从右到左显示）。
+- **更新有了自己的卡片，频率由你决定。** 设置 → 工具 → 更新：可以选择每次启动应用时、每小时、每 12 小时、每天一次（与之前相同）、每周一次检查新版本，或仅在点击“检查更新”时检查。卡片会显示上次检查的时间。如果之前关闭了“新版本提醒”，会自动设为“仅手动检查”。
+- **广告卡片（高级版）：** 实时广告和诈骗名单会显示条目数量和上次更新时间，新增 **立即刷新实时名单** 一项，可马上获取最新名单。
+- **中文更新说明。** 当你的 Telegram（或在 Re: TeleVIP 中选择的语言）是中文时，更新提示会用中文显示更新内容。GitHub 的发布页面和频道公告会同时显示中英文。
+- **新增 3 个月高级版：90 天 5.49 美元。** 在高级版页面中与月付、年付并列，可用银行卡或 USDT 支付。
+- **也可用 TON 网络的 USDT 支付。** “用 USDT 支付”现在有 TRON / TON 切换：可在任一网络发送 USDT，支持 Trust Wallet、Tonkeeper、Telegram 钱包等任意钱包。高级版仍会在一两分钟内自动开通。
+- **隐藏菜单中的表情符号。** 在 **外观 → 设置外观** 中新增开关，让 Re: TeleVIP 的设置和菜单以纯文字显示，不带表情符号，支持所有语言。免费，默认关闭。
+- **本地 Telegram Premium 和解锁受限聊天的保存现在免费。** 投票结果出来了，这两项最受欢迎：现在所有人无需高级版即可使用。在 Re: TeleVIP 设置中开启即可。“注明副本来源”仍属高级版。
+
+**修复**
+
+- **免 Root（LSPatch）：新手机上 Telegram 一打开就关闭。** 在使用 16 KB 内存页的手机上，修补后的 Telegram 可能一打开就退出。点按新的 Re: TeleVIP 图标 → **为这台手机修复**：会直接原地更新，聊天和设置都会保留。
+- **读屏功能：** TalkBack 现在会读出 Re: TeleVIP 设置顶部的标签页，并说明当前选中的是哪一个。
+- **高级版体验更顺畅：** 激活码错误或被拒绝时，输入框会保留并显示原因，可直接修改；「再次检查」会告诉你付款是否已到账；高级版仍有效时购买的续费会自动生效；Android 13 及以上不再多弹一次「已复制」。
+- **更新：** 在 Telegram 打开时安装新版本后，Re: TeleVIP 现在会提示旧版本仍在运行，并提供 **重启应用** 来加载新版本。以前会一直显示旧版本，看起来像更新失败了。
+- **本地 Telegram Premium 的语音转文字：** 不再显示"未识别到文字"，而是说明语音转文字需要真正的 Telegram Premium（Telegram 服务器只为真正的 Premium 转写）。
+- **侧边栏：** 更改 Re: TeleVIP 的语言后，"Re: TeleVIP 设置"一行可以正常打开了。
+- **关闭动态：** 当你自己发过动态时，关闭并重新打开 Telegram 后，聊天列表顶部的动态栏不会再出现。
+- **文件夹标签（本地 Telegram Premium）：** 在没有 Telegram Premium 的账号上，重新打开文件夹设置后，文件夹标签开关和彩色标签会保持开启。
+- **高级版一台手机：** 同一台手机上的所有 Telegram 应用现在都算作这一台手机。以前部分手机（如较新的 Pixel）会给每个 Telegram 应用不同的 ID，导致第二个应用被当作第二台手机而被拒绝。已在你的兑换码上的应用会自动迁移。
+- **图案壁纸上的玻璃：** 开启 **清晰壁纸** 后，玻璃现在会显示 Telegram 的图案壁纸及其线条，深色模式下也一样。以前在这里只显示一片灰色。
+- **管理订阅（高级版）：** 使用礼品码或 USDT 付款的高级版，按钮现在会直接打开付款方式以便续费，而不再显示"无法连接高级版服务器"。打开过程中多次点击不会重复操作，之后再点会立即打开。
+
 ## 1.6.12 (24 November 2026) — One Premium code for your whole phone
 
 **Fixed**
