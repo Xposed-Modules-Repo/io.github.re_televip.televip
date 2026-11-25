@@ -2,6 +2,22 @@
 
 ## Unreleased
 
+## 1.7.2 (25 November 2026) — Hotfix: hidden ads are fully hidden
+
+**Fixed**
+
+- **Hidden ads hide their pictures too.** A message caught by the ad list showed "Ad hidden" in place of its text, but its photo, video or link preview still showed. Now the whole ad is hidden, and so are the other photos of its album, also when the album loads with the chat.
+- **The ad list catches more ads.** It now also looks at the links of the buttons under a post, and an "@name" or "t.me/name" entry also hides posts forwarded from that channel or sent by it in a group.
+- **The live ad list asks our server less often when it can't reach it.** After a failed update it waits half an hour before trying again by itself; "Refresh the live list now" still works straight away.
+
+### 中文
+
+**修复**
+
+- **被屏蔽的广告连图片一起隐藏。** 被广告列表拦下的消息以前只把文字换成“已屏蔽广告”，图片、视频或链接预览仍然显示。现在整条广告都会隐藏，同一相册里的其他图片也一起隐藏，聊天刚打开时载入的相册也是如此。
+- **广告列表能拦下更多广告。** 现在也会检查帖子下方按钮里的链接；列表里的“@用户名”或“t.me/用户名”也会隐藏从该频道转发来的帖子，以及它在群里发的消息。
+- **连不上服务器时，实时广告名单不再频繁重试。** 更新失败后会等半小时再自动重试；“立即刷新实时名单”仍可马上使用。
+
 ## 1.7.1 (25 November 2026) — Tidier Tools tab, a Help & support card, and the message time line stays in its bubble
 
 **Changed**
