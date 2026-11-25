@@ -1,5 +1,41 @@
 # Changelog
 
+## Unreleased
+
+## 1.7.1 (25 November 2026) — Tidier Tools tab, a Help & support card, and the message time line stays in its bubble
+
+**Changed**
+
+- **Help & support card.** The Patreon card at the end of Settings → Tools is now a Help & support card, in the Premium card's night-blue look with the logo: **Report an issue on GitHub** opens a new issue on our public page, and **Licence problem? Group chat** opens our group chat, where licence and activation problems can always be reported directly. The settings close as the chat opens, so it shows straight away. Every language, Arabic right-to-left included, and any font size.
+- **Updates and About cards.** The Updates and About cards in Settings → Tools now share the Help & support card's night-blue look. Updates shows the installed version, how often it looks (tap to change), a **Check for updates** button and when it last looked. About has the channel button, **Restart App**, and what a restart is for.
+- **One look for the whole Tools tab.** The Extras card and the Supported clients card at the end of Settings → Tools now share the same night-blue look as Premium, Updates, About and Help & support: a badge, title and a short line on what is inside, the switches on frosted glass with a glass switch in the logo's colours, and the clients' grid on frosted glass with its versions in cyan. The switches work exactly as before, and search still shows the plain rows. Every language, Arabic right-to-left included, and any font size.
+- **Local Telegram Premium explains itself.** Its description now says what it opens (up to 4 accounts, folder tags, profile colours and emoji status only you see) and what it can't do because Telegram's servers check it (voice-to-text, faster downloads, 4 GB uploads, Premium stickers or reactions others see, higher limits).
+
+**Fixed**
+
+- **Message time line stays inside its bubble.** With Show message ID, read time or Deleted on, the line under a message (author name, ID and time) could run out of the bubble to the left, over the avatar or off the screen, most of all under polls with a long author name, in channels and in their discussion groups. The author's name is now shortened to fit the bubble as it really is, and if even that isn't enough the read time and then the ID are left out for that message. In a discussion group, the channel's posts kept their ID and author also when you run the channel. Works with reactions, pinned messages, every font size and language, Arabic right-to-left included.
+- **Search finds settings by their English and older names too.** Searching "alert" finds **Hide language suggestion** again, and every setting can be found by its English name whatever language Re: TeleVIP is in.
+- **“Re: TeleVIP” stays on one line in Arabic, Persian and Urdu.** When a line broke inside the name, it read “:Re” on one line and “TeleVIP” on the next.
+- **“Last checked” in your language.** The Updates card and the ad list said when they last looked in the phone's language, so with Re: TeleVIP in Arabic and the phone in English it read “2 minutes ago” inside an Arabic line, turned round. It now follows Re: TeleVIP's language.
+- **No app icon unless you use LSPatch.** Since 1.7 Re: TeleVIP had an icon in the phone's app list for everyone. Now it shows only when LSPatch is on the phone (its manager, or a Telegram patched with it), where it opens **Fix for this phone**. With Vector the icon goes away again the first time you open Telegram after updating; Re: TeleVIP opens from Vector as before.
+
+### 中文
+
+**改动**
+
+- **帮助与支持卡片。** 设置 → 工具 最后的 Patreon 卡片改为“帮助与支持”卡片，采用与高级版卡片相同的深蓝外观和标志：**在 GitHub 上报告问题** 会在我们的公开页面新建问题，**许可证问题？群聊** 会打开我们的群聊，许可证和激活问题随时可以直接在那里反馈。打开群聊时设置会关闭，群聊马上就能看到。支持所有语言（包括从右到左的阿拉伯语）和任意字号。
+- **更新与关于卡片。** 设置 → 工具 中的“更新”和“关于”卡片现在与“帮助与支持”卡片采用相同的深蓝外观。“更新”卡片显示已安装的版本、检查频率（点按可更改）、**检查更新** 按钮以及上次检查的时间。“关于”卡片包含频道按钮、**重启应用**，并说明重启的用途。
+- **工具页整体统一外观。** 设置 → 工具 末尾的“额外功能”卡片和“支持的客户端”卡片现在与高级版、更新、关于、帮助与支持卡片采用同一种深蓝外观：带徽标、标题和一句内容简介，开关放在磨砂玻璃上并使用标志配色的玻璃开关，客户端网格也在磨砂玻璃上，版本号为青色。开关的行为完全不变，搜索时仍显示普通列表行。支持所有语言（包括从右到左的阿拉伯语）和任意字号。
+- **本地 Telegram Premium 说明更清楚。** 说明里写明它能开放什么（最多 4 个账号、文件夹标签、只有你能看到的资料颜色和表情状态），以及因为需要 Telegram 服务器检查而做不到什么（语音转文字、更快的下载、4 GB 上传、别人能看到的 Premium 贴纸或回应、更高的上限）。
+
+**修复**
+
+- **消息时间行不再超出气泡。** 开启“显示消息 ID”、“已读时间”或“已删除”标记后，消息下方的那一行（作者名、ID 和时间）可能向左超出气泡，盖住头像或跑出屏幕，尤其是作者名较长的投票，在频道及其讨论组中最明显。现在作者名会按气泡的实际宽度缩短；如果仍然放不下，该条消息会省略已读时间，再省略 ID。在讨论组中，即使你是频道管理员，频道帖子也会保留 ID 和作者。适用于带表情回应、置顶的消息，所有字号和语言，包括从右到左的阿拉伯语。
+- **搜索也能按英文名和旧名称找到设置。** 搜索“alert”会再次找到**隐藏语言建议**；无论 Re: TeleVIP 使用哪种语言，每个设置都可以用英文名称搜到。
+- **在阿拉伯语、波斯语和乌尔都语中，“Re: TeleVIP”保持在同一行。** 以前名称在中间换行时，会显示成一行“:Re”、下一行“TeleVIP”。
+- **“上次检查”跟随语言。** 更新卡片和广告列表显示上次检查时间时用的是手机的语言，所以 Re: TeleVIP 设为阿拉伯语、手机为英语时，阿拉伯语句子里会出现英文的“2 minutes ago”，而且顺序颠倒。现在它跟随 Re: TeleVIP 的语言。
+- **不用 LSPatch 就没有桌面图标。** 从 1.7 起，所有人的应用列表里都会出现 Re: TeleVIP 图标。现在只有手机上装了 LSPatch（它的管理器，或用它修补过的 Telegram）时才显示，用来打开 **为这台手机修复**。使用 Vector 时，更新后第一次打开 Telegram 图标就会消失，仍像以前一样从 Vector 打开 Re: TeleVIP。
+
 ## 1.7 (24 November 2026) — Major release: Local Telegram Premium and saving in restricted chats go free, new Premium and Updates cards, a 3-month plan, USDT on TON
 
 **New**
