@@ -192,7 +192,7 @@ Only this, and never your Telegram account, number, contacts or messages:
 
 ## 💛 Support
 
-Coded in squeezed-in time ☕ Your support keeps it going: [![Patreon](https://img.shields.io/badge/Patreon-support-FF424D?logo=patreon&logoColor=white)](https://www.patreon.com/Dossary)
+Coded in squeezed-in time ☕ Your support keeps it going: [![Patreon](https://img.shields.io/badge/Patreon-support-FF424D?logo=patreon&logoColor=white)](https://www.patreon.com/c/Dossary) [![Ko-fi](https://img.shields.io/badge/Ko--fi-support-72A4F2?logo=kofi&logoColor=white)](https://ko-fi.com/2b4g10)
 
 ## 🙏 Credits
 
@@ -211,6 +211,8 @@ Modified clients can put a Telegram account at risk: use at your own risk.
 
 ---
 
-Made in Saudi 🇸🇦 By: i_2B_4G10🚀
+<sub>🌐&nbsp;<a href="https://re-televip.cc">re-televip.cc</a> · 📣&nbsp;<a href="https://t.me/Revived_TeleVIP">@Revived_TeleVIP</a> · 🏢&nbsp;<a href="https://github.com/Dream1Works">Dream1Works</a> · ❤️&nbsp;<a href="https://www.patreon.com/c/Dossary">Patreon</a> · ☕&nbsp;<a href="https://ko-fi.com/2b4g10">Ko-fi</a></sub>
+
+Made in Saudi 🇸🇦 By: <a href="https://github.com/2B-4G10">i_2B_4G10</a>🚀
 
 </div>
