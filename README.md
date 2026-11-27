@@ -1,21 +1,22 @@
 <div align="center">
 
-<a href="https://re-televip.cc"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/logo.svg" width="128" alt="Re: TeleVIP logo"></a>
-
-# Re: TeleVIP
+<a href="https://re-televip.cc"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/banner.svg" width="100%" alt="Re: TeleVIP: privacy, ad blocking and more for Telegram and its forks"></a>
 
 **Privacy, ad blocking and quality-of-life features for Telegram and its forks,<br>as a Vector / Xposed module.**
 
-[![Release](https://img.shields.io/github/v/release/Dream1Works/Re-TeleVIP?label=release&color=FFD500)](https://github.com/Dream1Works/Re-TeleVIP/releases/latest)
-[![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F2B-4G10%2FRe-TeleVIP%2Fbadges%2Fdownloads.json)](https://github.com/Dream1Works/Re-TeleVIP/releases)
-[![Users](https://img.shields.io/endpoint?url=https%3A%2F%2Fre-televip.cc%2Fbadge%2Fusers)](https://re-televip.cc)
-[![License](https://img.shields.io/badge/license-All%20rights%20reserved-F99B1C)](https://github.com/Dream1Works/Re-TeleVIP/blob/main/LICENSE)
+[![Release](https://img.shields.io/github/v/release/Dream1Works/Re-TeleVIP?style=flat-square&label=release&color=FFD500&labelColor=1F2430)](https://github.com/Dream1Works/Re-TeleVIP/releases/latest)
+[![Downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FDream1Works%2FRe-TeleVIP%2Fbadges%2Fdownloads.json&style=flat-square&labelColor=1F2430)](https://github.com/Dream1Works/Re-TeleVIP/releases)
+[![Users](https://img.shields.io/endpoint?url=https%3A%2F%2Fre-televip.cc%2Fbadge%2Fusers&style=flat-square&labelColor=1F2430)](https://re-televip.cc)
+[![Android](https://img.shields.io/badge/Android-8.1%2B-3DDC84?style=flat-square&logo=android&logoColor=white&labelColor=1F2430)](#-getting-started)
+[![License](https://img.shields.io/badge/license-All%20rights%20reserved-F99B1C?style=flat-square&labelColor=1F2430)](https://github.com/Dream1Works/Re-TeleVIP/blob/main/LICENSE)
 
 <br>
 
-[![Download the latest APK](https://img.shields.io/badge/Download-latest%20APK-2AABEE?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Dream1Works/Re-TeleVIP/releases/latest)
+[![Download the latest APK](https://img.shields.io/badge/Download-latest%20APK-FFD500?style=for-the-badge&logo=android&logoColor=1F2430&labelColor=FFD500&color=F9C80E)](https://github.com/Dream1Works/Re-TeleVIP/releases/latest)
+[![Telegram channel](https://img.shields.io/badge/Telegram-channel-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Revived_TeleVIP)
+[![Website](https://img.shields.io/badge/Website-re--televip.cc-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://re-televip.cc)
 
-[Changelog](https://github.com/Dream1Works/Re-TeleVIP/blob/main/CHANGELOG.md) · [Telegram channel](https://t.me/Revived_TeleVIP) · [Report a problem](https://github.com/Dream1Works/Re-TeleVIP/issues)
+<sub>✨&nbsp;<a href="#-features">Features</a> · 💎&nbsp;<a href="#-premium">Premium</a> · 🚀&nbsp;<a href="#-getting-started">Install</a> · 📱&nbsp;<a href="#-supported-apps">Supported apps</a> · 🔒&nbsp;<a href="#-what-it-sends">What it sends</a> · 📝&nbsp;<a href="https://github.com/Dream1Works/Re-TeleVIP/blob/main/CHANGELOG.md">Changelog</a> · 🐞&nbsp;<a href="https://github.com/Dream1Works/Re-TeleVIP/issues">Report a problem</a></sub>
 
 <br>
 
@@ -90,8 +91,8 @@ Buy in **Re: TeleVIP → Premium** or on **[re-televip.cc](https://re-televip.cc
 
 <table>
 <tr>
-  <th width="400">Requirements</th>
-  <th width="400">Install</th>
+  <th width="400">📋 Requirements</th>
+  <th width="400">📥 Install</th>
 </tr>
 <tr>
   <td valign="top">
@@ -114,7 +115,7 @@ Buy in **Re: TeleVIP → Premium** or on **[re-televip.cc](https://re-televip.cc
 </table>
 
 <details>
-<summary><b>Troubleshooting</b></summary>
+<summary><b>🧰 Troubleshooting</b></summary>
 <br>
 
 <div align="left">
@@ -128,7 +129,7 @@ Buy in **Re: TeleVIP → Premium** or on **[re-televip.cc](https://re-televip.cc
 </details>
 
 <details>
-<summary><b>Without root (LSPatch)</b></summary>
+<summary><b>🔓 Without root (LSPatch)</b></summary>
 <br>
 
 <div align="left">
@@ -183,10 +184,9 @@ Every app is checked against its new releases twice a week, and after every Re: 
 
 Only this, and never your Telegram account, number, contacts or messages:
 
-- **Update check**, once a day (GitHub or jsDelivr). You can turn it off under **Updates**.
-- **Supported-apps list**, once a week ([compat.json](https://github.com/Dream1Works/Re-TeleVIP/blob/main/compat.json)).
+- **Update check and supported-apps list**, from GitHub or jsDelivr: updates once a day, and the list of supported apps ([compat.json](https://github.com/Dream1Works/Re-TeleVIP/blob/main/compat.json)) once a week. You can turn the update check off under **Updates**.
 - **Premium**, only if you subscribe: your pass, a random phone ID and the build asking. See the [privacy policy](https://re-televip.cc/privacy).
-- **Active users count**, once a day: a random ID, the module version and the Telegram app's name. IP addresses are not stored.
+- **Active users count**, once a day: a random ID, the module version, and app, module and hook stats. IP addresses are not stored.
 
 <br>
 
