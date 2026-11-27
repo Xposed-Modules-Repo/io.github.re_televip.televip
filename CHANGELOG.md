@@ -2,6 +2,68 @@
 
 ## Unreleased
 
+## 1.8 (27 November 2026) — Major release: Premium free for 7 days, auto-translate chats, ads disappear completely
+
+**Fixed**
+
+- **Hidden ads come back when you turn ad blocking off.** Turning off **Block ads**, the live ad list or **Hide ads by keywords and links** now shows the messages they hid straight away, right where they are, with no restart and no need to reopen the chat. **Block ads** is now the main switch of the Ads card: with it off, the ad lists hide nothing either. Changing your keyword list or refreshing the live list shows the ones they no longer catch too.
+- **Blocked ads disappear completely.** A message the ad blocking catches is now removed from the chat entirely: no "Ad hidden" line, no pictures and no row of link buttons left behind, and no empty gap where it was.
+- **The pinned-message bar follows too.** When a pinned ad shows again after you turn ad blocking off, the bar at the top of the chat shows that message straight away instead of "Ad hidden" until you reopen the chat.
+- **Ads shown again keep their photo or video.** A photo or video ad that comes back after you turn ad blocking off shows with its picture straight away, not as text only until the chat is reopened.
+
+**New**
+
+- **🎁 Premium free for 7 days.** Update to this version and every Premium feature is free for everyone for 7 days (cloud backup stays with paid plans). Already a member? 7 days are added to your plan. Please test it all and report any bug to @FogSourcebot or in our group @Revived_TeleVIP.
+- **🌐 Auto-translate chats (Premium).** Messages in other languages show translated in every chat, by Telegram's own translator, with nothing to tap in each chat. Turn on **Local Telegram Premium**, then pick **Auto-translate chats** in the Tools tab: **Same as Telegram** or a language of your choice. **Show original** in a chat keeps that chat as it is; the same row can translate every chat again.
+- **Simpler settings.** Fewer rows on first open, and nothing taken away. Fine-tuning rows show once their switch is on: the glass sliders under **Liquid glass in Telegram**, the live-list refresh and the keyword list under their ad switches. Long cards keep the rarely used rows under one **More options** row (Deleted messages and backups, Interface, Settings look). The Ads card now sits in the Privacy tab, beside the scam protection. Search still finds every setting, and your choices stay as they were.
+- **💎 Open groups Google Play blocks.** With **Open Play-blocked groups** on (Messages card), groups, channels and bots that only the Google Play version of Telegram refuses ("violated Google Play's rules") open as they do in the telegram.org version. Chats blocked for every app stay blocked. Needs a restart after switching.
+- **💎 Your own "last seen".** With **Appear online less** on, your profile can show your "last seen" as others see it ("last seen recently") instead of "You are currently offline". Turn on **Show my last seen** under it.
+- **Appear online less, explained.** Its note (tap to open) now says simply that "You are currently offline" is shown only to you, and why a contact can show "last seen recently": Telegram hides others' last seen from you while you hide yours, unless you have real Telegram Premium.
+- **💎 Local Telegram Premium is now a drop-down** with three Premium extras that switch on with it the first time:
+  - **More than 5 pinned chats**: pin more than 5 chats. The extra pins are kept on this phone, under the ones Telegram keeps.
+  - **Translate bar in chats**: show or hide the Translate bar at the top of a chat in another language.
+  - **Translate in the message menu**: show or hide Translate when you hold a message.
+
+**Changed**
+
+- **Settings without emojis by default.** Re: TeleVIP's settings and menus now show as plain text, without emojis, unless you want them. To bring them back, turn off **Hide emojis in menus** in **Appearance → Settings look → More options** (or search "emoji"). If you already turned that switch on or off yourself, your choice stays.
+- **Search stays open when you change a setting from it.** Switching **Hide emojis in menus**, the theme or the language from search results no longer closes the search and jumps back to a tab: the results stay, with what you typed.
+
+**Coming soon**
+
+- **🔑 Log in without a paid code (Premium)** is harder to build than we expected, so it gets its own update within a week at most.
+
+### 中文
+
+**修复**
+
+- **关闭广告屏蔽后，被屏蔽的广告会恢复显示。** 关闭 **屏蔽广告**、实时广告名单或 **按关键词和链接隐藏广告** 后，它们隐藏的消息会立即在原位置显示，无需重启，也无需重新打开聊天。**屏蔽广告** 现在是广告卡片的总开关：关闭它后，广告名单也不再隐藏任何消息。修改你的关键词名单或刷新实时名单后，不再匹配的消息也会立即显示。
+- **被屏蔽的广告会完全消失。** 被广告屏蔽拦下的消息现在会从聊天中完全移除：不再留下“已屏蔽广告”提示、图片或那一排链接按钮，也不会留下空白。
+- **置顶消息栏也会同步更新。** 关闭广告屏蔽后，被置顶的广告重新显示时，聊天顶部的置顶栏会立即显示该消息，不再显示“已屏蔽广告”直到重新打开聊天。
+- **恢复显示的广告会保留图片或视频。** 关闭广告屏蔽后重新显示的图片或视频广告会立即带着图片显示，不再只剩文字直到重新打开聊天。
+
+**新增**
+
+- **🎁 Premium 免费 7 天。** 更新到此版本，所有人可免费使用全部 Premium 功能 7 天（云备份仍仅限付费套餐）。已经是会员？你的套餐会额外增加 7 天。请多多测试，发现问题请发给 @FogSourcebot 或在我们的群组 @Revived_TeleVIP 里告诉我们。
+- **🌐 自动翻译聊天（Premium）。** 其他语言的消息会在每个聊天中以 Telegram 自带的翻译显示，无需在每个聊天中手动点按。先开启 **本地 Telegram Premium**，再在“工具”页选择 **自动翻译聊天**：**与 Telegram 相同** 或你选择的语言。在某个聊天中点 **显示原文** 会让该聊天保持原样；同一设置项可以让所有聊天重新翻译。
+- **更简洁的设置。** 打开时显示的行更少，但没有删除任何功能。细调选项会在其开关打开后才显示：**Telegram 液态玻璃** 下的玻璃滑块，以及广告开关下的实时名单刷新和关键词名单。较长的卡片把不常用的项目收进一行 **更多选项**（已删除消息与备份、界面、设置外观）。广告卡片移到“隐私”标签，与防诈骗保护放在一起。搜索仍能找到每一项设置，你的选择保持不变。
+- **💎 打开被 Google Play 屏蔽的群组。** 开启 **打开被 Google Play 屏蔽的群组**（消息卡片）后，只有 Google Play 版 Telegram 拒绝显示的群组、频道和机器人（“违反了 Google Play 的规则”）会像 telegram.org 版一样正常打开。对所有应用都屏蔽的聊天仍保持屏蔽。切换后需要重启。
+- **💎 你自己的“最后上线时间”。** 开启 **减少显示在线** 后，你的个人资料可以显示别人看到的“最后上线时间”（例如“最近上线”），而不是“你当前处于离线状态”。在“减少显示在线”下方开启 **显示我的最后上线时间**。
+- **“减少显示在线”说明更清楚。** 它的说明（点按展开）现在简单说明：“你当前处于离线状态”只有你自己能看到；以及为什么联系人会显示“最近上线”：当你隐藏自己的最后上线时间时，Telegram 也会对你隐藏别人的，除非你拥有真正的 Telegram Premium。
+- **💎 本地 Telegram Premium 现在是一个下拉菜单**，包含三个 Premium 附加功能，第一次开启时会一起打开：
+  - **超过 5 个置顶聊天**：置顶超过 5 个聊天。额外的置顶保存在本机，排在 Telegram 保存的置顶之下。
+  - **聊天中的翻译栏**：显示或隐藏其他语言聊天顶部的翻译栏。
+  - **消息菜单中翻译**：显示或隐藏长按消息时的“翻译”。
+
+**改动**
+
+- **设置默认不显示表情符号。** Re: TeleVIP 的设置和菜单现在默认以纯文字显示，不带表情符号。想要恢复表情符号，请在 **外观 → 设置外观 → 更多选项** 中关闭 **隐藏菜单中的表情符号**（也可以搜索“表情”）。如果你之前自己切换过这个开关，你的选择保持不变。
+- **在搜索结果中更改设置后，搜索保持打开。** 在搜索结果中切换 **隐藏菜单中的表情符号**、主题或语言后，搜索不再关闭并跳回某个标签页：结果和你输入的文字都会保留。
+
+**即将推出**
+
+- **🔑 无需付费验证码登录（Premium）** 比预想的更难实现，所以会单独更新，最多 1 周内推出。
+
 ## 1.7.2 (25 November 2026) — Hotfix: hidden ads are fully hidden
 
 **Fixed**
