@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://github.com/Dream1Works/Re-TeleVIP/blob/main/README.ar.md">العربية</a> · <b>English</b> · <a href="https://github.com/Dream1Works/Re-TeleVIP/blob/main/README.zh-CN.md">简体中文</a>
+</p>
+
 <div align="center">
 
 <a href="https://re-televip.cc"><img src="https://raw.githubusercontent.com/Dream1Works/Re-TeleVIP/main/.github/assets/banner.svg" width="100%" alt="Re: TeleVIP: privacy, ad blocking and more for Telegram and its forks"></a>
