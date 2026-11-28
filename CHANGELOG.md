@@ -2,6 +2,34 @@
 
 ## Unreleased
 
+## 1.8.1 (28 November 2026) — Hotfix: Translate and Play-blocked groups work again, Telegram 13.4 and Nicegram 1.64+
+
+**Fixed**
+
+- **Translate works again after 1.8.** With Premium (and the free week) and **Local Telegram Premium** on, the **Translate bar in chats** and **Translate in the message menu** switches hid Telegram's own Translate buttons while they were off, and Telegram's own switches in its Language settings showed off and could not be turned on. Off now leaves Telegram's own setting as it is; on still shows the button.
+- **Open Play-blocked groups works on chats you already have.** Groups, channels and bots the Google Play build of Telegram blocks now open right after you turn the switch on, also the ones Telegram had already loaded, with no restart.
+- **Works with Telegram 13.4 and Nicegram 1.64+.** Telegram 13.4 (beta) moved and reordered parts the module hooks, and Nicegram changed the shape of its message menu and notifications; ad blocking, kept deleted messages, edit history, read time and the photo viewer's save button now find them again.
+- **No false "missing" warnings when Telegram is patched with LSPatch and also ticked in Vector.** The module loaded twice; the Vector copy found nothing and filled the log and the hook health line with missing classes. It now steps aside and leaves the work to LSPatch's copy.
+
+**New**
+
+- **Developer logo in About.** The About card in the Tools tab now ends with the developer's logo; tap it to open the developer's GitHub page (github.com/2B-4G10).
+- **Support us on Patreon or Ko-fi.** The Help & support card at the end of the Tools tab now ends with a **Support us** line over two buttons of the same size, **Patreon** and **Ko-fi**, each opening its page in your browser. Every language, Arabic right-to-left included, and any font size.
+
+### 中文
+
+**修复**
+
+- **1.8 之后翻译恢复正常。** 有 Premium（包括免费周）并开启“本地 Telegram Premium”时，“聊天中的翻译栏”和“消息菜单中的翻译”两个开关在关闭状态下会隐藏 Telegram 自带的翻译按钮，Telegram 语言设置里的开关也显示为关闭且无法打开。现在关闭即沿用 Telegram 自己的设置；开启仍会显示按钮。
+- **“打开被 Google Play 屏蔽的群组”对已有聊天生效。** 打开开关后，Google Play 版 Telegram 屏蔽的群组、频道和机器人立即可以打开，包括 Telegram 已加载的聊天，无需重启。
+- **支持 Telegram 13.4 和 Nicegram 1.64 及以上。** Telegram 13.4（测试版）移动并调整了模块挂钩的部分，Nicegram 也改变了消息菜单和通知的结构；屏蔽广告、保留已删除消息、编辑记录、已读时间以及图片查看器的保存按钮现在都能重新找到它们。
+- **用 LSPatch 修补且同时在 Vector 中勾选的 Telegram 不再误报“缺失”。** 模块会被加载两次；Vector 那一份什么也找不到，日志和挂钩状态里满是缺失的类。现在它会自动让出，由 LSPatch 内置的那一份工作。
+
+**新增**
+
+- **关于 中的开发者标志。** 工具 标签页的“关于”卡片底部现在显示开发者标志，点按即可打开开发者的 GitHub 页面（github.com/2B-4G10）。
+- **在 Patreon 或 Ko-fi 上支持我们。** 工具 标签页最后的“帮助与支持”卡片底部新增“支持我们”一行，下方是两个同样大小的按钮 **Patreon** 和 **Ko-fi**，点按即在浏览器中打开对应页面。支持所有语言（包括从右到左的阿拉伯语）和任意字号。
+
 ## 1.8 (27 November 2026) — Major release: Premium free for 7 days, auto-translate chats, ads disappear completely
 
 **Fixed**
